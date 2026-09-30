@@ -47,7 +47,7 @@ msgstr "Тур із такою назвою вже існує. Назва тур
 #. odoo-javascript
 #: code:addons/web_tour/static/src/tour_service/tour_utils.js:0
 msgid "Click the top left corner to navigate across apps."
-msgstr ""
+msgstr "Клацніть у верхньому лівому куті, щоб переходити між застосунками."
 
 #. module: web_tour
 #: model:ir.model.fields,field_description:web_tour.field_web_tour_tour_step__content
@@ -75,13 +75,13 @@ msgstr "Кастомний"
 #. odoo-javascript
 #: code:addons/web_tour/static/src/tour_service/tour_recorder/tour_recorder.js:0
 msgid "Custom tour '%s' couldn't be saved!"
-msgstr ""
+msgstr "Не вдалося зберегти користувацький тур '%s'!"
 
 #. module: web_tour
 #. odoo-javascript
 #: code:addons/web_tour/static/src/tour_service/tour_recorder/tour_recorder.js:0
 msgid "Custom tour '%s' has been added."
-msgstr ""
+msgstr "Користувацький тур '%s' додано."
 
 #. module: web_tour
 #: model:ir.model.fields,field_description:web_tour.field_web_tour_tour__display_name
@@ -92,7 +92,7 @@ msgstr "Назва для відображення"
 #. module: web_tour
 #: model:ir.actions.server,name:web_tour.tour_export_js_action
 msgid "Export JS"
-msgstr ""
+msgstr "Експортувати JS"
 
 #. module: web_tour
 #: model:ir.model,name:web_tour.model_ir_http
@@ -144,12 +144,12 @@ msgstr "Залучення"
 #. module: web_tour
 #: model:ir.model.fields,field_description:web_tour.field_web_tour_tour__rainbow_man_message
 msgid "Rainbow Man Message"
-msgstr ""
+msgstr "Повідомлення Rainbow Man"
 
 #. module: web_tour
 #: model_terms:ir.ui.view,arch_db:web_tour.tour_form
 msgid "Rainbow Man Message..."
-msgstr ""
+msgstr "Повідомлення Rainbow Man..."
 
 #. module: web_tour
 #. odoo-javascript
@@ -162,7 +162,7 @@ msgstr "Запис"
 #. odoo-javascript
 #: code:addons/web_tour/static/src/views/tour_controller.xml:0
 msgid "Record Tour"
-msgstr ""
+msgstr "Записати тур"
 
 #. module: web_tour
 #: model:ir.model.fields,field_description:web_tour.field_web_tour_tour_step__run
@@ -185,13 +185,13 @@ msgstr "Прокрутіть вниз, щоб перейти до наступн
 #. odoo-javascript
 #: code:addons/web_tour/static/src/tour_service/tour_pointer_state.js:0
 msgid "Scroll left to reach the next step."
-msgstr ""
+msgstr "Прокрутіть ліворуч, щоб перейти до наступного кроку."
 
 #. module: web_tour
 #. odoo-javascript
 #: code:addons/web_tour/static/src/tour_service/tour_pointer_state.js:0
 msgid "Scroll right to reach the next step."
-msgstr ""
+msgstr "Прокрутіть праворуч, щоб перейти до наступного кроку."
 
 #. module: web_tour
 #. odoo-javascript
@@ -208,7 +208,7 @@ msgstr "Послідовність"
 #. module: web_tour
 #: model:ir.model.fields,field_description:web_tour.field_web_tour_tour__sharing_url
 msgid "Sharing URL"
-msgstr ""
+msgstr "URL для спільного доступу"
 
 #. module: web_tour
 #. odoo-javascript
@@ -219,7 +219,7 @@ msgstr "Почати тур"
 #. module: web_tour
 #: model:ir.model.fields,field_description:web_tour.field_web_tour_tour__url
 msgid "Starting URL"
-msgstr ""
+msgstr "Початковий URL"
 
 #. module: web_tour
 #: model:ir.model.fields,field_description:web_tour.field_web_tour_tour__step_ids
@@ -237,13 +237,13 @@ msgstr "Кроки"
 #. odoo-javascript
 #: code:addons/web_tour/static/src/tour_service/tour_recorder/tour_recorder.xml:0
 msgid "Steps:"
-msgstr ""
+msgstr "Кроки:"
 
 #. module: web_tour
 #. odoo-javascript
 #: code:addons/web_tour/static/src/widgets/tour_start.xml:0
 msgid "Test Tour"
-msgstr ""
+msgstr "Тестовий тур"
 
 #. module: web_tour
 #. odoo-javascript
@@ -264,7 +264,7 @@ msgstr "Тур"
 #. module: web_tour
 #: model:ir.model,name:web_tour.model_web_tour_tour_step
 msgid "Tour's step"
-msgstr ""
+msgstr "Крок туру"
 
 #. module: web_tour
 #: model:ir.actions.act_window,name:web_tour.tour_action
@@ -282,7 +282,7 @@ msgstr "Запуск"
 #. odoo-javascript
 #: code:addons/web_tour/static/src/tour_service/tour_recorder/tour_recorder.xml:0
 msgid "Url:"
-msgstr ""
+msgstr "URL:"
 
 #. module: web_tour
 #: model:ir.model,name:web_tour.model_res_users
@@ -292,27 +292,27 @@ msgstr "Користувач"
 #. module: web_tour
 #: model:ir.model.fields,field_description:web_tour.field_web_tour_tour__user_consumed_ids
 msgid "User Consumed"
-msgstr ""
+msgstr "Використано користувачем"
 
 #. module: web_tour
 #: model_terms:ir.ui.view,arch_db:web_tour.tour_form
 msgid "e.g. My_Tour"
-msgstr ""
+msgstr "наприклад, My_Tour"
 
 #. module: web_tour
 #. odoo-javascript
 #: code:addons/web_tour/static/src/tour_service/tour_recorder/tour_recorder.xml:0
 msgid "name_of_the_tour"
-msgstr ""
+msgstr "назва_туру"
 
 #. module: web_tour
 #. odoo-javascript
 #: code:addons/web_tour/static/src/tour_service/tour_recorder/tour_recorder.xml:0
 msgid "n°"
-msgstr ""
+msgstr "№"
 
 #. module: web_tour
 #. odoo-javascript
 #: code:addons/web_tour/static/src/tour_service/tour_recorder/tour_recorder.xml:0
 msgid "trigger"
-msgstr ""
+msgstr "тригер"

@@ -61,7 +61,7 @@ msgid ""
 "8px; letter-spacing: 0.5px;\">\n"
 "                        Preview\n"
 "                    </span>"
-msgstr ""
+msgstr "<span style=\"font-size: 16px; font-weight: bold; color: #ffffff; display: inline-block; vertical-align: middle; text-transform: uppercase; margin: 0px 8px; letter-spacing: 0.5px;\">\n                        Попередній перегляд\n                    </span>"
 
 #. module: account_edi_ubl_cii
 #: model_terms:ir.ui.view,arch_db:account_edi_ubl_cii.account_invoice_pdfa_3_facturx_metadata
@@ -72,7 +72,7 @@ msgstr "A"
 #. odoo-python
 #: code:addons/account_edi_ubl_cii/models/account_edi_ubl_pint_eu.py:0
 msgid "A buyer reference or purchase order reference must be provided."
-msgstr ""
+msgstr "Необхідно вказати посилання покупця або посилання на замовлення на закупівлю."
 
 #. module: account_edi_ubl_cii
 #. odoo-python
@@ -530,7 +530,7 @@ msgstr "Загальна знижка"
 #. odoo-python
 #: code:addons/account_edi_ubl_cii/models/account_edi_ubl.py:0
 msgid "General upsell"
-msgstr ""
+msgstr "Загальний додатковий продаж"
 
 #. module: account_edi_ubl_cii
 #. odoo-python
@@ -997,7 +997,7 @@ msgid ""
 "(xml_category)s) was ignored on the line for product '%(product)s' because "
 "it does not match the product's UoM category (%(product_category)s). The UoM "
 "was left empty."
-msgstr ""
+msgstr "Одиницю вимірювання '%(uom)s' (з коду одиниці '%(code)s', категорія %(xml_category)s) проігноровано в рядку товару '%(product)s', оскільки вона не відповідає категорії одиниць вимірювання товару (%(product_category)s). Одиницю вимірювання залишено порожньою."
 
 #. module: account_edi_ubl_cii
 #. odoo-python
@@ -1079,7 +1079,7 @@ msgid ""
 "This is a visual representation of the xml content.<br/>\n"
 "                    <strong style=\"color: #495057;\">It is not an official "
 "document.</strong>"
-msgstr ""
+msgstr "Це візуальне представлення XML-вмісту.<br/>\n                    <strong style=\"color: #495057;\">Це не офіційний документ.</strong>"
 
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields.selection,name:account_edi_ubl_cii.selection__res_partner__peppol_eas__9952
@@ -1109,17 +1109,17 @@ msgstr "UBL BIS Billing 3.0.12"
 #. module: account_edi_ubl_cii
 #: model:ir.model,name:account_edi_ubl_cii.model_account_edi_ubl_cen_en16931
 msgid "UBL CEN-EN16931"
-msgstr ""
+msgstr "UBL CEN-EN16931"
 
 #. module: account_edi_ubl_cii
 #: model:ir.model,name:account_edi_ubl_cii.model_account_edi_ubl_pint
 msgid "UBL PINT"
-msgstr ""
+msgstr "UBL PINT"
 
 #. module: account_edi_ubl_cii
 #: model:ir.model,name:account_edi_ubl_cii.model_account_edi_ubl_pint_eu
 msgid "UBL PINT-EU Layer"
-msgstr ""
+msgstr "Рівень UBL PINT-EU"
 
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields.selection,name:account_edi_ubl_cii.selection__res_partner__peppol_eas__0193
@@ -1168,7 +1168,7 @@ msgstr "Невідомий партнер"
 #. odoo-python
 #: code:addons/account_edi_ubl_cii/wizard/account_move_send_wizard.py:0
 msgid "Unsupported file type via %s"
-msgstr ""
+msgstr "Непідтримуваний тип файлу через %s"
 
 #. module: account_edi_ubl_cii
 #. odoo-python

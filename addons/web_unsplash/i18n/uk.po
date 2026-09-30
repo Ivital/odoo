@@ -60,7 +60,7 @@ msgstr "ПОМИЛКА: Невідоме сповіщення Unsplash URL!"
 #. module: web_unsplash
 #: model_terms:ir.ui.view,arch_db:web_unsplash.res_config_settings_view_form
 msgid "Generate an Access Key"
-msgstr ""
+msgstr "Згенерувати ключ доступу"
 
 #. module: web_unsplash
 #. odoo-javascript

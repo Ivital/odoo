@@ -961,7 +961,7 @@ msgid ""
 "Add a Klipy GIF API key to enable GIFs support. If you were using a Tenor "
 "GIF API key (service shutdown on June 30, 2026), please replace it here with "
 "a Klipy GIF API key"
-msgstr ""
+msgstr "Додайте ключ API Klipy GIF, щоб увімкнути підтримку GIF. Якщо ви використовували ключ API Tenor GIF (сервіс припинив роботу 30 червня 2026 року), замініть його тут на ключ API Klipy GIF"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_res_config_settings__tenor_api_key
@@ -970,7 +970,7 @@ msgid ""
 "getting-started\n"
 "If you were using a Tenor GIF API key (service shutdown on June 30, 2026), "
 "please replace it here with a Klipy GIF API key"
-msgstr ""
+msgstr "Додайте ключ API Klipy GIF, щоб увімкнути підтримку GIF. https://docs.klipy.com/getting-started\nЯкщо ви використовували ключ API Tenor GIF (сервіс припинив роботу 30 червня 2026 року), замініть його тут на ключ API Klipy GIF"
 
 #. module: mail
 #. odoo-javascript
@@ -4925,7 +4925,7 @@ msgstr "Якщо ви хочете використовувати twilio як п
 msgid ""
 "If you were using a Tenor API key, please replace it with a Klipy API key in "
 "the General Settings."
-msgstr ""
+msgstr "Якщо ви використовували ключ API Tenor, замініть його ключем API Klipy у Загальних налаштуваннях."
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.mail_resend_message_view_form
@@ -5495,28 +5495,28 @@ msgstr "З найкращими побажаннями"
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_res_config_settings__tenor_api_key
 msgid "Klipy API key"
-msgstr ""
+msgstr "Ключ API Klipy"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.res_config_settings_view_form
 msgid "Klipy GIF API key"
-msgstr ""
+msgstr "Ключ API Klipy GIF"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.res_config_settings_view_form
 msgid "Klipy GIF content filter"
-msgstr ""
+msgstr "Фільтр вмісту Klipy GIF"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_res_config_settings__tenor_gif_limit
 #: model_terms:ir.ui.view,arch_db:mail.res_config_settings_view_form
 msgid "Klipy GIF limits"
-msgstr ""
+msgstr "Обмеження Klipy GIF"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_res_config_settings__tenor_content_filter
 msgid "Klipy content filter"
-msgstr ""
+msgstr "Фільтр вмісту Klipy"
 
 #. module: mail
 #. odoo-javascript
@@ -8812,7 +8812,7 @@ msgstr "Пошук серверів вхідної пошти"
 #. odoo-javascript
 #: code:addons/mail/static/src/discuss/gif_picker/common/gif_picker.xml:0
 msgid "Search Klipy"
-msgstr ""
+msgstr "Пошук Klipy"
 
 #. module: mail
 #. odoo-javascript
@@ -11468,7 +11468,7 @@ msgstr "Ви можете спокійно ігнорувати це повід�
 #. odoo-python
 #: code:addons/mail/models/mail_alias_domain.py:0
 msgid "You cannot assign an empty domain name."
-msgstr ""
+msgstr "Неможливо призначити порожнє доменне ім’я."
 
 #. module: mail
 #. odoo-python
@@ -11975,7 +11975,7 @@ msgstr "щойно призначив вам наступну дію:"
 #. module: mail
 #: model:ir.model.fields,help:mail.field_res_config_settings__tenor_content_filter
 msgid "https://docs.klipy.com/migrate-from-tenor/content-filtering"
-msgstr ""
+msgstr "https://docs.klipy.com/migrate-from-tenor/content-filtering"
 
 #. module: mail
 #. odoo-javascript

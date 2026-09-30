@@ -383,7 +383,7 @@ msgstr "Застосувати"
 #. odoo-javascript
 #: code:addons/web_editor/static/src/js/editor/snippets.editor.js:0
 msgid "Are you sure you want to delete the block %s?"
-msgstr ""
+msgstr "Ви впевнені, що хочете видалити блок %s?"
 
 #. module: web_editor
 #. odoo-javascript
@@ -406,7 +406,7 @@ msgstr "Активи утиліт"
 #. odoo-javascript
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 msgid "Autoconvert to Relative Link"
-msgstr ""
+msgstr "Автоматично перетворювати на відносне посилання"
 
 #. module: web_editor
 #. odoo-javascript
@@ -689,7 +689,7 @@ msgstr "Колір"
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options_background_options
 msgid "Color Filter"
-msgstr ""
+msgstr "Фільтр кольору"
 
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options
@@ -869,7 +869,7 @@ msgstr "Підкреслено пунктиром"
 #. odoo-javascript
 #: code:addons/web_editor/static/src/xml/editor.xml:0
 msgid "Decoration"
-msgstr ""
+msgstr "Оформлення"
 
 #. module: web_editor
 #. odoo-javascript
@@ -919,7 +919,7 @@ msgstr "Пристрої"
 #. odoo-javascript
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 msgid "Direct Download"
-msgstr ""
+msgstr "Пряме завантаження"
 
 #. module: web_editor
 #. odoo-javascript
@@ -1173,7 +1173,7 @@ msgstr "Перевернути вертикально"
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options_background_options
 msgid "Floating Shapes"
-msgstr ""
+msgstr "Плаваючі фігури"
 
 #. module: web_editor
 #. odoo-javascript
@@ -1540,7 +1540,7 @@ msgstr "Вставити посилання / Кнопку"
 #. odoo-javascript
 #: code:addons/web_editor/static/src/xml/add_snippet_dialog.xml:0
 msgid "Insert a block"
-msgstr ""
+msgstr "Вставити блок"
 
 #. module: web_editor
 #. odoo-javascript
@@ -1564,7 +1564,7 @@ msgstr "Вставити правило горизонтального розд�
 #. odoo-javascript
 #: code:addons/web_editor/static/src/js/wysiwyg/wysiwyg.js:0
 msgid "Insert a picture"
-msgstr ""
+msgstr "Вставити зображення"
 
 #. module: web_editor
 #. odoo-javascript
@@ -1775,7 +1775,7 @@ msgstr "Посилання скопійовано в буфер обміну."
 #. odoo-javascript
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 msgid "Link to an uploaded document"
-msgstr ""
+msgstr "Посилання на завантажений документ"
 
 #. module: web_editor
 #. odoo-javascript
@@ -1978,7 +1978,7 @@ msgstr "Тести редактора Odoo"
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options
 msgid "Open in New Window"
-msgstr ""
+msgstr "Відкрити в новому вікні"
 
 #. module: web_editor
 #. odoo-javascript
@@ -2248,7 +2248,7 @@ msgstr "Перейменувати %s"
 #. odoo-javascript
 #: code:addons/web_editor/static/src/xml/add_snippet_dialog.xml:0
 msgid "Rename the block"
-msgstr ""
+msgstr "Перейменувати блок"
 
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options_background_options
@@ -2421,7 +2421,7 @@ msgstr "Пошук зображення"
 #. odoo-javascript
 #: code:addons/web_editor/static/src/xml/add_snippet_dialog.xml:0
 msgid "Search for a block"
-msgstr ""
+msgstr "Пошук блока"
 
 #. module: web_editor
 #. odoo-javascript
@@ -2586,7 +2586,7 @@ msgstr "Невеликий заголовок розділу"
 #. odoo-javascript
 #: code:addons/web_editor/static/src/xml/add_snippet_dialog.xml:0
 msgid "Snippet name"
-msgstr ""
+msgstr "Назва сніпета"
 
 #. module: web_editor
 #. odoo-javascript
@@ -2649,7 +2649,7 @@ msgstr "Початок"
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options
 msgid "Stretch"
-msgstr ""
+msgstr "Розтягнути"
 
 #. module: web_editor
 #. odoo-javascript
@@ -2744,7 +2744,7 @@ msgstr "Датачас %(value)s не співпадає формат %(format)s
 msgid ""
 "The document was already saved from someone with a different history for "
 "model \"%(model)s\", field \"%(field)s\" with id \"%(id)d\"."
-msgstr ""
+msgstr "Документ уже було збережено кимось з іншою історією для моделі \"%(model)s\", поля \"%(field)s\" з id \"%(id)d\"."
 
 #. module: web_editor
 #. odoo-javascript
@@ -2810,7 +2810,7 @@ msgstr "Ця URL-адреса недійсна. Не вдалося оновит
 #. odoo-javascript
 #: code:addons/web_editor/static/src/xml/snippets.xml:0
 msgid "This block cannot be dropped anywhere on this page."
-msgstr ""
+msgstr "Цей блок не можна розмістити ніде на цій сторінці."
 
 #. module: web_editor
 #. odoo-javascript
@@ -2857,7 +2857,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web_editor/static/src/xml/snippets.xml:0
 msgid "Tip: Esc to preview"
-msgstr ""
+msgstr "Порада: Esc для попереднього перегляду"
 
 #. module: web_editor
 #. odoo-javascript
@@ -3120,13 +3120,13 @@ msgstr "Тест конвертера веб-редактора"
 #. odoo-javascript
 #: code:addons/web_editor/static/src/js/editor/snippets.options.js:0
 msgid "WebGL is not enabled on your browser."
-msgstr ""
+msgstr "WebGL не ввімкнено у вашому браузері."
 
 #. module: web_editor
 #. odoo-javascript
 #: code:addons/web_editor/static/src/js/editor/snippets.options.js:0
 msgid "WebP compression not supported on this browser"
-msgstr ""
+msgstr "Цей браузер не підтримує стиснення WebP"
 
 #. module: web_editor
 #. odoo-javascript
@@ -3187,13 +3187,13 @@ msgstr "Так"
 msgid ""
 "You can not replace a field by this image. If you want to use this image, "
 "first save it on your computer and then upload it here."
-msgstr ""
+msgstr "Не можна замінити поле цим зображенням. Якщо ви хочете використати це зображення, спочатку збережіть його на комп’ютері, а потім завантажте сюди."
 
 #. module: web_editor
 #. odoo-javascript
 #: code:addons/web_editor/static/src/components/media_dialog/image_selector.xml:0
 msgid "You can not use this image in a field"
-msgstr ""
+msgstr "Не можна використовувати це зображення в полі"
 
 #. module: web_editor
 #. odoo-javascript

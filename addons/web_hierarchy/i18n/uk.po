@@ -96,7 +96,7 @@ msgstr "Новий"
 msgid ""
 "The parent of \"%s\" was successfully updated. Reloading records to account "
 "for other changes."
-msgstr ""
+msgstr "Батьківський елемент \"%s\" успішно оновлено. Перезавантаження записів для врахування інших змін."
 
 #. module: web_hierarchy
 #. odoo-javascript

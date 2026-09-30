@@ -135,7 +135,7 @@ msgstr "%(name)s (%(time)g залишилося %(maximum)g годин)"
 msgid ""
 "%(name)s does not have a valid allocation for the leave type %(leave_type)s "
 "to cover that request."
-msgstr ""
+msgstr "%(name)s не має чинного розподілу для типу відпустки %(leave_type)s, достатнього для цього запиту."
 
 #. module: hr_holidays
 #. odoo-python

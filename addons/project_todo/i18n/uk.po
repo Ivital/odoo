@@ -14,16 +14,12 @@ msgstr ""
 "POT-Creation-Date: 2025-12-29 18:37+0000\n"
 "PO-Revision-Date: 2026-05-27 15:27+0000\n"
 "Last-Translator: Alina Lisnenko <alina.lisnenko@erp.co.ua>\n"
-"Language-Team: Ukrainian <https://translate.odoo.com/projects/odoo-18/"
-"project_todo/uk/>\n"
+"Language-Team: Ukrainian <https://translate.odoo.com/projects/odoo-18/project_todo/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 "
-"? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > "
-"14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % "
-"100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 "X-Generator: Weblate 5.17\n"
 
 #. module: project_todo
@@ -104,37 +100,29 @@ msgstr ""
 msgid ""
 "<span style=\"font-size: 14px;\">\n"
 "            Select text to\n"
-"            <font style=\"background-color: #017E84; color: "
-"white\">Highlight</font>,\n"
-"            <span style=\"text-decoration-line: line-through;"
-"\">strikethrough</span>\n"
+"            <font style=\"background-color: #017E84; color: white\">Highlight</font>,\n"
+"            <span style=\"text-decoration-line: line-through;\">strikethrough</span>\n"
 "            or\n"
 "            <span style=\"font-weight: bolder;\">style</span>\n"
-"            <span style=\"font-style: italic; text-decoration-line: "
-"underline;\">it</span>\n"
+"            <span style=\"font-style: italic; text-decoration-line: underline;\">it</span>\n"
 "        </span>"
 msgstr ""
 "<span style=\"font-size: 14px;\">\n"
 "            Оберіть текст як\n"
-"            <font style=\"background-color: #017E84; color: white\">"
-"виділити</font>,\n"
-"            <span style=\"text-decoration-line: line-through;\">"
-"закресленням</span>\n"
+"            <font style=\"background-color: #017E84; color: white\">виділити</font>,\n"
+"            <span style=\"text-decoration-line: line-through;\">закресленням</span>\n"
 "            або\n"
 "            <span style=\"font-weight: bolder;\">стиль</span>\n"
-"            <span style=\"font-style: italic; text-decoration-line: "
-"underline;\"></span>\n"
+"            <span style=\"font-style: italic; text-decoration-line: underline;\"></span>\n"
 "        </span>"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
 msgid ""
 "<span style=\"font-size: 14px;\">\n"
-"        Access your personal pipeline with your to-dos and assigned tasks by "
-"going to the Project app and clicking\n"
+"        Access your personal pipeline with your to-dos and assigned tasks by going to the Project app and clicking\n"
 "        <span>\n"
-"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">My "
-"Tasks</font>.\n"
+"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">My Tasks</font>.\n"
 "        </span>\n"
 "    </span>\n"
 "    <br/>\n"
@@ -144,17 +132,13 @@ msgid ""
 "        <span style=\"font-weight: bolder;\">\n"
 "            <font class=\"text-o-color-2\">private tasks.</font>\n"
 "        </span>\n"
-"        Any task you create privately will also be included in your to-dos. "
-"Essentially, they are interchangeable.\n"
+"        Any task you create privately will also be included in your to-dos. Essentially, they are interchangeable.\n"
 "    </span>"
 msgstr ""
 "<span style=\"font-size: 14px;\">\n"
-"        Отримайте доступ до свого особистого конвеєра дій зі своїми "
-"завданнями та призначеними завданнями, перейшовши до модуля Проєкти і "
-"натиснувши\n"
+"        Отримайте доступ до свого особистого конвеєра дій зі своїми завданнями та призначеними завданнями, перейшовши до модуля Проєкти і натиснувши\n"
 "        <span>\n"
-"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">"
-"Мої завдання</font>.\n"
+"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">Мої завдання</font>.\n"
 "        </span>\n"
 "    </span>\n"
 "    <br/>\n"
@@ -164,29 +148,24 @@ msgstr ""
 "        <span style=\"font-weight: bolder;\">\n"
 "            <font class=\"text-o-color-2\">приватні завдання.</font>\n"
 "        </span>\n"
-"        Будь-яке завдання, яке ви створюєте приватно, також буде включено до "
-"ваших списків дій. По суті, вони взаємозамінні.\n"
+"        Будь-яке завдання, яке ви створюєте приватно, також буде включено до ваших списків дій. По суті, вони взаємозамінні.\n"
 "    </span>"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
 msgid ""
 "<span style=\"font-size: 14px;\">\n"
-"        By default, to-dos are only visible to you. You can share them with "
-"other users by adding them as\n"
+"        By default, to-dos are only visible to you. You can share them with other users by adding them as\n"
 "        <span>\n"
-"            <font style=\"font-weight: bolder;\" class=\"text-o-"
-"color-2\">assignees</font>.\n"
+"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">assignees</font>.\n"
 "        </span>\n"
 "    </span>\n"
 "    <br/>"
 msgstr ""
 "<span style=\"font-size: 14px;\">\n"
-"        За замовчуванням завдання видно лише вам. Ви можете поділитися ними "
-"з іншими користувачами, додавши їх як\n"
+"        За замовчуванням завдання видно лише вам. Ви можете поділитися ними з іншими користувачами, додавши їх як\n"
 "        <span>\n"
-"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">"
-"призначених</font>.\n"
+"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">призначених</font>.\n"
 "        </span>\n"
 "    </span>\n"
 "    <br/>"
@@ -214,22 +193,18 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
 msgid ""
 "<span style=\"font-size: 14px;\">\n"
-"        If you want to assign your to-do to a specific project, open the ⚙️ "
-"menu and click\n"
+"        If you want to assign your to-do to a specific project, open the ⚙️ menu and click\n"
 "        <span>\n"
-"            <font style=\"font-weight: bolder;\" class=\"text-o-"
-"color-2\">Convert to Task</font>.\n"
+"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">Convert to Task</font>.\n"
 "        </span>\n"
 "        This action will make it visible to other users.\n"
 "    </span>\n"
 "    <br/>"
 msgstr ""
 "<span style=\"font-size: 14px;\">\n"
-"        Якщо ви хочете призначити завдання певному проєкту, відкрийте меню "
-"⚙️ та натисніть\n"
+"        Якщо ви хочете призначити завдання певному проєкту, відкрийте меню ⚙️ та натисніть\n"
 "        <span>\n"
-"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">"
-"Конвертувати в завдання</font>.\n"
+"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">Конвертувати в завдання</font>.\n"
 "        </span>\n"
 "        Ця дія зробить його видимим для інших користувачів.\n"
 "    </span>\n"
@@ -239,59 +214,45 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
 msgid ""
 "<span style=\"font-size: 14px;\">\n"
-"        Use it to manage your work, take notes on the go, and create tasks "
-"based on them.\n"
+"        Use it to manage your work, take notes on the go, and create tasks based on them.\n"
 "    </span>"
 msgstr ""
 "<span style=\"font-size: 14px;\">\n"
-"        Використовуйте його для керування роботою, створення нотаток у "
-"дорозі та завдань на їх основі.\n"
+"        Використовуйте його для керування роботою, створення нотаток у дорозі та завдань на їх основі.\n"
 "    </span>"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
 msgid ""
 "<span style=\"font-size: 14px;\">\n"
-"        Wherever you are, use the magic keyboard shortcut to add yourself a "
-"reminder &amp;#128161;\n"
+"        Wherever you are, use the magic keyboard shortcut to add yourself a reminder &amp;#128161;\n"
 "    </span>\n"
 "    <br/>"
 msgstr ""
 "<span style=\"font-size: 14px;\">\n"
-"        Де б ви не були, використовуйте чарівну комбінацію клавіш, щоб "
-"додати собі нагадування &amp;#128161;\n"
+"        Де б ви не були, використовуйте чарівну комбінацію клавіш, щоб додати собі нагадування &amp;#128161;\n"
 "    </span>\n"
 "    <br/>"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
-msgid ""
-"<span style=\"font-size: 14px;\">Check this box to indicate it's done</span>"
-msgstr ""
-"<span style=\"font-size: 14px;\">Позначте це, щоби визначити як виконано</"
-"span>"
+msgid "<span style=\"font-size: 14px;\">Check this box to indicate it's done</span>"
+msgstr "<span style=\"font-size: 14px;\">Позначте це, щоби визначити як виконано</span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid "<span style=\"font-size: 14px;\">Click anywhere, and just start typing</span>"
+msgstr "<span style=\"font-size: 14px;\">Клікніть будь-де і просто почніть писати</span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid "<span style=\"font-size: 14px;\">Press Ctrl+Z/⌘+Z to undo any change</span>"
+msgstr "<span style=\"font-size: 14px;\">Натисніть Ctrl+Z/⌘+Z щоб відмінити будь-яку зміну</span>"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
 msgid ""
-"<span style=\"font-size: 14px;\">Click anywhere, and just start typing</span>"
-msgstr ""
-"<span style=\"font-size: 14px;\">Клікніть будь-де і просто почніть писати</"
-"span>"
-
-#. module: project_todo
-#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
-msgid ""
-"<span style=\"font-size: 14px;\">Press Ctrl+Z/⌘+Z to undo any change</span>"
-msgstr ""
-"<span style=\"font-size: 14px;\">Натисніть Ctrl+Z/⌘+Z щоб відмінити будь-яку "
-"зміну</span>"
-
-#. module: project_todo
-#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
-msgid ""
-"<span style=\"font-size: 14px;\">This private to-do is for you to play "
-"around with.</span>\n"
+"<span style=\"font-size: 14px;\">This private to-do is for you to play around with.</span>\n"
 "    <br/>\n"
 "    <span style=\"font-size: 14px;\">Ready to give it a spin?</span>"
 msgstr ""
@@ -347,8 +308,7 @@ msgid "Add details about your to-do..."
 msgstr "Додайте деталі вашого to-do..."
 
 #. module: project_todo
-#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
-#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Archived"
 msgstr "Заархівовано"
 
@@ -358,8 +318,7 @@ msgid "Assigned to"
 msgstr "Виконавець"
 
 #. module: project_todo
-#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
-#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Assignees"
 msgstr "Виконавці"
 
@@ -390,9 +349,7 @@ msgstr "Дата закриття"
 
 #. module: project_todo
 #. odoo-javascript
-#: code:addons/project_todo/static/src/views/todo_form/todo_form_controller.js:0
-#: model:ir.actions.act_window,name:project_todo.project_task_action_convert_todo_to_task
-#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_conversion_form
+#: code:addons/project_todo/static/src/views/todo_form/todo_form_controller.js:0 model:ir.actions.act_window,name:project_todo.project_task_action_convert_todo_to_task model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_conversion_form
 msgid "Convert to Task"
 msgstr "Конвертувати в завдання"
 
@@ -427,8 +384,7 @@ msgid "Delete"
 msgstr "Видалити"
 
 #. module: project_todo
-#: model_terms:ir.ui.view,arch_db:project_todo.mail_activity_todo_create_popup
-#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_conversion_form
+#: model_terms:ir.ui.view,arch_db:project_todo.mail_activity_todo_create_popup model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_conversion_form
 msgid "Discard"
 msgstr "Відмінити"
 
@@ -466,12 +422,10 @@ msgstr "ID"
 #: model_terms:ir.actions.act_window,help:project_todo.project_task_action_todo
 msgid ""
 "Keep your work organized by using memos and to-do lists.\n"
-"                Your to-do items are private by default, but you can choose "
-"to share them with others by adding them as assignees."
+"                Your to-do items are private by default, but you can choose to share them with others by adding them as assignees."
 msgstr ""
 "Організовуйте свою роботу за допомогою нотаток і списків справ.\n"
-"                За замовчуванням ваші завдання приватні, але ви можете "
-"поділитися ними з іншими, додавши їх як виконавців."
+"                За замовчуванням ваші завдання приватні, але ви можете поділитися ними з іншими, додавши їх як виконавців."
 
 #. module: project_todo
 #: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__write_uid
@@ -534,8 +488,7 @@ msgid "Show all records which has next action date is before today"
 msgstr "Показати всі записи, які мають дату наступної дії до сьогоднішньої"
 
 #. module: project_todo
-#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
-#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_tree
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_tree
 msgid "Stage"
 msgstr "Етап"
 
@@ -556,20 +509,18 @@ msgstr "Мітки"
 
 #. module: project_todo
 #. odoo-python
-#: code:addons/project_todo/models/res_users.py:0
-#: model:ir.model,name:project_todo.model_project_task
+#: code:addons/project_todo/models/res_users.py:0 model:ir.model,name:project_todo.model_project_task
 msgid "Task"
 msgstr "Завдання"
 
 #. module: project_todo
 #. odoo-python
-#: code:addons/project_todo/models/res_users.py:0
+#: code:addons/project_todo/models/res_users.py:0 model:ir.module.module,shortdesc:base.module_project_todo
 msgid "To-Do"
-msgstr "To-Do"
+msgstr "Справи"
 
 #. module: project_todo
-#: model:ir.ui.menu,name:project_todo.menu_todo_todos
-#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
+#: model:ir.ui.menu,name:project_todo.menu_todo_todos model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
 msgid "To-do"
 msgstr "To-do"
 
@@ -584,9 +535,7 @@ msgid "To-do..."
 msgstr "To-do..."
 
 #. module: project_todo
-#: model:ir.actions.act_window,name:project_todo.project_task_action_todo
-#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_activity
-#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_tree
+#: model:ir.actions.act_window,name:project_todo.project_task_action_todo model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_activity model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_tree
 msgid "To-dos"
 msgstr "To-do"
 

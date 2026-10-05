@@ -21154,7 +21154,7 @@ msgstr "Магазин одягу"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_cloud_storage
 msgid "Cloud Storage"
-msgstr "Cloud Storage"
+msgstr "Хмарне сховище"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_cloud_storage_azure
@@ -22586,7 +22586,7 @@ msgstr "Кубинське конвертоване песо"
 #. module: base
 #: model:res.country,name:base.cw
 msgid "Curaçao"
-msgstr "Curaçao"
+msgstr "Кюрасао"
 
 #. module: base
 #: model:ir.actions.act_window,name:base.action_currency_form
@@ -22844,7 +22844,7 @@ msgstr "Чеська Республіка- Бухгалтерські звіти
 #. module: base
 #: model:res.country,name:base.ci
 msgid "Côte d'Ivoire"
-msgstr "Côte d'Ivoire"
+msgstr "Кот-д'Івуар"
 
 #. module: base
 #: model:res.partner.industry,full_name:base.res_partner_industry_D
@@ -24264,7 +24264,7 @@ msgstr "EST5EDT"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_l10n_eu_oss
 msgid "EU One Stop Shop (OSS)"
-msgstr "EU One Stop Shop (OSS)"
+msgstr "Єдине вікно ЄС (OSS)"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_l10n_eu_oss_reports
@@ -24944,7 +24944,7 @@ msgstr "Естонська декларація Intrastat"
 #. module: base
 #: model:res.country,name:base.sz
 msgid "Eswatini"
-msgstr "Eswatini"
+msgstr "Есватіні"
 
 #. module: base
 #: model:ir.model.fields.selection,name:base.selection__res_partner__tz__etc/gmt
@@ -27005,7 +27005,7 @@ msgstr "GST"
 #. module: base
 #: model:res.country,vat_label:base.sg
 msgid "GST No."
-msgstr "GST No."
+msgstr "Номер GST"
 
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_in_pos
@@ -27080,7 +27080,7 @@ msgstr "Садівництво"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_sale_gelato
 msgid "Gelato"
-msgstr "Gelato"
+msgstr "Джелато"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_sale_gelato_stock
@@ -27610,7 +27610,7 @@ msgstr "Гвінея-Бісау — бухгалтерський облік"
 #. module: base
 #: model:res.country.group,name:base.gulf_cooperation_council
 msgid "Gulf Cooperation Council (GCC)"
-msgstr "Gulf Cooperation Council (GCC)"
+msgstr "Рада співробітництва країн Перської затоки (GCC)"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_l10n_gcc_pos
@@ -30136,7 +30136,7 @@ msgstr "Проведення асоційовані з контактом"
 #. odoo-python
 #: code:addons/base/models/ir_qweb_fields.py:0
 msgid "Json"
-msgstr "Json"
+msgstr "JSON"
 
 #. module: base
 #: model:res.partner.industry,full_name:base.res_partner_industry_K
@@ -39899,7 +39899,7 @@ msgstr "Руанда — бухгалтерські звіти"
 #. module: base
 #: model:res.country,name:base.re
 msgid "Réunion"
-msgstr "Réunion"
+msgstr "Реюньйон"
 
 #. module: base
 #: model:res.partner.industry,full_name:base.res_partner_industry_S

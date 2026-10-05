@@ -4794,7 +4794,7 @@ msgstr "Партнер останньої доставки"
 #. module: stock
 #: model:product.removal,name:stock.removal_lifo
 msgid "Last In First Out (LIFO)"
-msgstr "Last In First Out (LIFO)"
+msgstr "Останнім надійшло — першим вибуло (LIFO)"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_location__last_inventory_date

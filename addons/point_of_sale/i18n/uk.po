@@ -1263,7 +1263,7 @@ msgstr "Буфер:"
 #. module: point_of_sale
 #: model:ir.model,name:point_of_sale.model_pos_bus_mixin
 msgid "Bus Mixin"
-msgstr "Bus Mixin"
+msgstr "Міксин шини"
 
 #. module: point_of_sale
 #: model:product.template,name:point_of_sale.product_butter_croissant_product_template

@@ -51,7 +51,7 @@ msgstr "%s (копія)"
 #. odoo-python
 #: code:addons/survey/models/survey_question.py:0
 msgid "%s Votes"
-msgstr ""
+msgstr "%s голосів"
 
 #. module: survey
 #. odoo-python
@@ -670,6 +670,8 @@ msgid ""
 "A positive default time limit is required when the session rewards quick "
 "answers."
 msgstr ""
+"Потрібен додатний типовий ліміт часу, якщо сесія винагороджує швидкі "
+"відповіді."
 
 #. module: survey
 #: model:ir.model.fields,help:survey.field_survey_question_answer__answer_score
@@ -844,7 +846,7 @@ msgstr "Усі опитування"
 #. module: survey
 #: model:ir.model.constraint,message:survey.constraint_survey_question_is_time_limited_have_time_limit
 msgid "All time-limited questions need a positive time limit"
-msgstr ""
+msgstr "Усі питання з обмеженням часу мають мати додатний ліміт часу"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_survey_view_form
@@ -910,6 +912,8 @@ msgid ""
 "Answer label as either the value itself if not empty or a letter "
 "representing the index of the answer otherwise."
 msgstr ""
+"Мітка відповіді: саме значення, якщо воно не порожнє, або літера, що "
+"представляє індекс відповіді."
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_question__user_input_line_ids
@@ -1686,7 +1690,7 @@ msgstr "Кінцевий термін"
 #: model:ir.model.fields,help:survey.field_survey_question__survey_session_speed_rating_time_limit
 #: model:ir.model.fields,help:survey.field_survey_survey__session_speed_rating_time_limit
 msgid "Default time given to receive additional points for right answers"
-msgstr ""
+msgstr "Типовий час для отримання додаткових балів за правильні відповіді"
 
 #. module: survey
 #: model:ir.model.fields,help:survey.field_gamification_challenge__challenge_category
@@ -4368,6 +4372,8 @@ msgid ""
 "Suggested answer value must not be empty (a text and/or an image must be "
 "provided)."
 msgstr ""
+"Значення запропонованої відповіді не може бути порожнім (потрібен текст "
+"та/або зображення)."
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_question_answer__value
@@ -4698,7 +4704,7 @@ msgstr "Запитання обмежене в часі"
 #: model:ir.model.constraint,message:survey.constraint_survey_question_scale
 msgid ""
 "The scale must be a growing non-empty range between 0 and 10 (inclusive)"
-msgstr ""
+msgstr "Шкала має бути зростаючим непорожнім діапазоном від 0 до 10 включно"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_session_code

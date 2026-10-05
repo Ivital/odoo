@@ -192,7 +192,7 @@ msgstr "Було нагадування про термін дії"
 #. module: product_expiry
 #: model:product.removal,name:product_expiry.removal_fefo
 msgid "First Expiry First Out (FEFO)"
-msgstr "First Expiry First Out (FEFO)"
+msgstr "Першим закінчується — першим вибуває (FEFO)"
 
 #. module: product_expiry
 #: model:ir.model.fields,field_description:product_expiry.field_expiry_picking_confirmation__id

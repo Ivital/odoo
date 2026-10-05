@@ -132,7 +132,7 @@ msgstr "<span class=\"fw-bold\">Країна</span>"
 #. module: website_profile
 #: model_terms:ir.ui.view,arch_db:website_profile.user_profile_edit_content
 msgid "<span class=\"fw-bold\">Email</span>"
-msgstr "<span class=\"fw-bold\">Email</span>"
+msgstr "<span class=\"fw-bold\">Електронна пошта</span>"
 
 #. module: website_profile
 #: model_terms:ir.ui.view,arch_db:website_profile.user_profile_edit_content

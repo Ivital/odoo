@@ -59,12 +59,12 @@ msgstr "<b>Почати</b>"
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.event_description_full
 msgid "<em>Hidden for visitors</em>"
-msgstr ""
+msgstr "<em>Приховано для відвідувачів</em>"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.registration_template
 msgid "<em>Registrations <b>Closed</b></em>"
-msgstr ""
+msgstr "<em>Реєстрацію <b>закрито</b></em>"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.index_sidebar_quotes
@@ -149,7 +149,7 @@ msgstr "<i class=\"fa fa-map-marker me-2\" title=\"Location\"/>"
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.event_description_full
 msgid "<i class=\"fa fa-map-marker\" title=\"Location\"/> Online event"
-msgstr ""
+msgstr "<i class=\"fa fa-map-marker\" title=\"Location\"/> Онлайн-подія"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.index_sidebar_follow_us
@@ -176,21 +176,23 @@ msgid ""
 "<i class=\"oi oi-chevron-left\"/>\n"
 "                <span>All Events</span>"
 msgstr ""
+"<i class=\"oi oi-chevron-left\"/>\n"
+"                <span>Усі події</span>"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.event_description_dates
 msgid "<small class=\"fw-bold\">Ends</small>"
-msgstr ""
+msgstr "<small class=\"fw-bold\">Завершується</small>"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.event_description_dates
 msgid "<small class=\"fw-bold\">Starts</small>"
-msgstr ""
+msgstr "<small class=\"fw-bold\">Починається</small>"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.event_description_dates
 msgid "<small class=\"text-muted\">Add to calendar:</small>"
-msgstr ""
+msgstr "<small class=\"text-muted\">Додати до календаря:</small>"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.registration_complete
@@ -279,6 +281,13 @@ msgid ""
 "                                </span>\n"
 "                            </time>"
 msgstr ""
+"<time class=\"text-white\" datetime=\"2024-08-05 07:00:00\">\n"
+"                                <span>26 липня 2024</span>\n"
+"                                <span class=\"s_events_event_time\">\n"
+"                                    - <span>9:00</span>\n"
+"                                    (Europe/Brussels)\n"
+"                                </span>\n"
+"                            </time>"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.s_event_upcoming_snippet_preview_data
@@ -291,6 +300,13 @@ msgid ""
 "                                </span>\n"
 "                            </time>"
 msgstr ""
+"<time class=\"text-white\" datetime=\"2024-08-10 08:00:00\">\n"
+"                                <span>24 жовтня 2024</span>\n"
+"                                <span class=\"s_events_event_time\">\n"
+"                                    - <span>1:15</span>\n"
+"                                    (Europe/Brussels)\n"
+"                                </span>\n"
+"                            </time>"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.s_event_upcoming_snippet_preview_data
@@ -303,6 +319,13 @@ msgid ""
 "                                </span>\n"
 "                            </time>"
 msgstr ""
+"<time class=\"text-white\" datetime=\"2024-11-08 20:15:00\">\n"
+"                                <span>23 листопада 2024</span>\n"
+"                                <span class=\"s_events_event_time\">\n"
+"                                    - <span>20:15</span>\n"
+"                                    (Europe/Brussels)\n"
+"                                </span>\n"
+"                            </time>"
 
 #. module: website_event
 #: model:event.question.answer,name:website_event.event_0_question_2_answer_2
@@ -409,12 +432,12 @@ msgstr "Автор"
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.navbar
 msgid "Back to All Events"
-msgstr ""
+msgstr "Назад до всіх подій"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.navbar
 msgid "Back to {{event.name}}"
-msgstr ""
+msgstr "Назад до {{event.name}}"
 
 #. module: website_event
 #: model:event.question.answer,name:website_event.event_1_question_0_answer_1
@@ -612,7 +635,7 @@ msgstr "Меню події спільноти"
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.snippet_options
 msgid "Event Cover Position"
-msgstr ""
+msgstr "Позиція обкладинки події"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.event_searchbar_input_snippet_options
@@ -662,7 +685,7 @@ msgstr "Реєстрація події"
 #. module: website_event
 #: model:ir.model.fields,field_description:website_event.field_event_event__event_register_url
 msgid "Event Registration Link"
-msgstr ""
+msgstr "Посилання на реєстрацію події"
 
 #. module: website_event
 #: model:ir.model.fields,field_description:website_event.field_website_visitor__event_registration_ids
@@ -736,7 +759,7 @@ msgstr "Сторінка подій"
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.s_event_upcoming_snippet_preview_data
 msgid "Excellence in Achievement Awards"
-msgstr ""
+msgstr "Нагороди за видатні досягнення"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.modal_ticket_registration
@@ -803,12 +826,12 @@ msgstr "Сітка"
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.s_event_upcoming_snippet_preview_data
 msgid "Harmony Under the Stars"
-msgstr ""
+msgstr "Гармонія під зорями"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.snippet_options
 msgid "Hidden (visitor only)"
-msgstr ""
+msgstr "Приховано (лише відвідувач)"
 
 #. module: website_event
 #. odoo-python
@@ -844,7 +867,7 @@ msgstr "Інформація"
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.s_event_upcoming_snippet_preview_data
 msgid "Innovations in Technology and Society"
-msgstr ""
+msgstr "Інновації в технологіях і суспільстві"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.snippet_options
@@ -1169,7 +1192,7 @@ msgstr "Реєстрації ще не відкриті"
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.registration_template
 msgid "Registrations will open on"
-msgstr ""
+msgstr "Реєстрація відкриється"
 
 #. module: website_event
 #: model:ir.model.fields,field_description:website_event.field_event_event__start_remaining
@@ -1191,7 +1214,7 @@ msgstr "Пошук"
 #: model:ir.model.fields,help:website_event.field_event_tag__website_id
 #: model:ir.model.fields,help:website_event.field_event_tag_category__website_id
 msgid "Restrict to a specific website."
-msgstr ""
+msgstr "Обмежити конкретним вебсайтом."
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.404
@@ -1450,7 +1473,7 @@ msgstr "Доступність"
 #. module: website_event
 #: model:ir.model.fields,field_description:website_event.field_event_event__is_visible_on_website
 msgid "Visible On Website"
-msgstr ""
+msgstr "Видимий на вебсайті"
 
 #. module: website_event
 #: model:ir.model.fields,field_description:website_event.field_event_event__website_published
@@ -1532,7 +1555,7 @@ msgstr "URL сайту"
 #. module: website_event
 #: model:ir.model.fields,field_description:website_event.field_event_event__website_visibility
 msgid "Website Visibility"
-msgstr ""
+msgstr "Видимість вебсайту"
 
 #. module: website_event
 #: model:ir.model,name:website_event.model_website_visitor

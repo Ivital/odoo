@@ -1749,7 +1749,7 @@ msgstr "Ресторани, кафе та бари"
 #: model:ir.model.fields,help:website_blog.field_blog_blog__website_id
 #: model:ir.model.fields,help:website_blog.field_blog_post__website_id
 msgid "Restrict to a specific website."
-msgstr ""
+msgstr "Обмежити конкретним вебсайтом."
 
 #. module: website_blog
 #: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_form
@@ -1891,7 +1891,7 @@ msgstr "Бічна панель"
 #: model:blog.post,name:website_blog.blog_post_1
 #: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_preview_data
 msgid "Sierra Tarahumara"
-msgstr "Sierra Tarahumara"
+msgstr "Сьєрра-Тараумара"
 
 #. module: website_blog
 #: model_terms:blog.post,content:website_blog.blog_post_1
@@ -2482,7 +2482,7 @@ msgstr "Видимий на поточному веб-сайті"
 #. module: website_blog
 #: model_terms:ir.ui.view,arch_db:website_blog.blog_post_content
 msgid "WRITE HERE OR DRAG BUILDING BLOCKS"
-msgstr "WRITE HERE OR DRAG BUILDING BLOCKS"
+msgstr "ПИШІТЬ ТУТ АБО ПЕРЕТЯГНІТЬ БУДІВЕЛЬНІ БЛОКИ"
 
 #. module: website_blog
 #: model:ir.model,name:website_blog.model_website

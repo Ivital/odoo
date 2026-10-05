@@ -820,7 +820,7 @@ msgid ""
 "6ch;\" invisible=\"state != 'draft' or invoice_payment_term_id\">or</span>"
 msgstr ""
 "<span class=\"o_form_label mx-3 oe_edit_only text-center\" style=\"width: "
-"6ch;\" invisible=\"state != 'draft' or invoice_payment_term_id\">or</span>"
+"6ch;\" invisible=\"state != 'draft' or invoice_payment_term_id\">або</span>"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_account_reconcile_model_line_form
@@ -1053,12 +1053,12 @@ msgstr "<span title=\"Latest Statement\">Остання виписка</span>"
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.account_move_line_view_kanban
 msgid "<span> (CR)</span>"
-msgstr "<span> (CR)</span>"
+msgstr "<span> (КР)</span>"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.account_move_line_view_kanban
 msgid "<span> (DR)</span>"
-msgstr "<span> (DR)</span>"
+msgstr "<span> (ДТ)</span>"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_account_payment_form
@@ -13174,7 +13174,7 @@ msgstr "Необхідний банківський рахунок партне�
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_setup_bank_manual_config__res_partner_bank_id
 msgid "Res Partner Bank"
-msgstr "Res Partner Bank"
+msgstr "Банківський рахунок партнера"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.action_account_resequence

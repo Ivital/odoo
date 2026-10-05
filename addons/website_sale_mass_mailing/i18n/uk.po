@@ -52,6 +52,7 @@ msgstr "Список розсилки"
 #: model_terms:ir.ui.view,arch_db:website_sale_mass_mailing.res_config_settings_view_form
 msgid "Show a checkbox to sign up for the selected newsletter to guest users"
 msgstr ""
+"Показувати гостьовим користувачам прапорець для підписки на вибрану розсилку"
 
 #. module: website_sale_mass_mailing
 #: model:ir.model,name:website_sale_mass_mailing.model_website

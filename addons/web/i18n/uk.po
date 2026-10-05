@@ -241,7 +241,7 @@ msgstr "<span class=\"text-nowrap\">2,350.00</span>"
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.report_invoice_wizard_preview
 msgid "<span class=\"text-nowrap\">Tax 15%</span>"
-msgstr "<span class=\"text-nowrap\">Tax 15%</span>"
+msgstr "<span class=\"text-nowrap\">Податок 15%</span>"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.report_invoice_wizard_preview
@@ -2836,7 +2836,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/emoji_picker/emoji_data.js:0
 msgid "French"
-msgstr "French"
+msgstr "Французька"
 
 #. module: web
 #. odoo-javascript
@@ -3394,7 +3394,7 @@ msgstr "Японія"
 #. odoo-javascript
 #: code:addons/web/static/src/core/emoji_picker/emoji_data.js:0
 msgid "Japanese"
-msgstr "Japanese"
+msgstr "Японська"
 
 #. module: web
 #. odoo-javascript

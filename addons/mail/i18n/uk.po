@@ -11278,7 +11278,7 @@ msgstr "Назва неправильної операції (%s)"
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.view_mail_form
 msgid "YYYY-MM-DD HH:MM:SS"
-msgstr "YYYY-MM-DD HH:MM:SS"
+msgstr "РРРР-ММ-ДД ГГ:ХХ:СС"
 
 #. module: mail
 #. odoo-javascript
@@ -11662,7 +11662,7 @@ msgstr "alias %(name)s: %(error)s"
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.view_mail_form
 msgid "attachment(s) of this email."
-msgstr "attachment(s) of this email."
+msgstr "вкладення цього листа."
 
 #. module: mail
 #. odoo-javascript

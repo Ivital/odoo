@@ -151,7 +151,7 @@ msgstr "<span class=\"flex-grow-0 ms-1 text-white-50\">%</span>"
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.colorpicker
 msgid "<span class=\"flex-grow-0 ms-1 text-white-50\">deg</span>"
-msgstr "<span class=\"flex-grow-0 ms-1 text-white-50\">deg</span>"
+msgstr "<span class=\"flex-grow-0 ms-1 text-white-50\">град.</span>"
 
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.colorpicker

@@ -67,7 +67,7 @@ msgstr "&amp;nbsp;"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.checkout_layout
 msgid "&amp;nbsp;item(s)&amp;nbsp;-&amp;nbsp;"
-msgstr "&amp;nbsp;item(s)&amp;nbsp;-&amp;nbsp;"
+msgstr "&amp;nbsp;елемент(и)&amp;nbsp;-&amp;nbsp;"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.products
@@ -109,7 +109,7 @@ msgstr "<b>Зв'язок: </b>"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.address_on_payment
 msgid "<b>Deliver to pickup point: </b>"
-msgstr ""
+msgstr "<b>Доставити до пункту видачі: </b>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.address_on_payment
@@ -198,6 +198,8 @@ msgid ""
 "<i class=\"fa fa-plus me-md-2\"/>\n"
 "                    <span class=\"d-none d-md-inline\">Add address</span>"
 msgstr ""
+"<i class=\"fa fa-plus me-md-2\"/>\n"
+"                    <span class=\"d-none d-md-inline\">Додати адресу</span>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.confirmation
@@ -233,11 +235,13 @@ msgid ""
 "<i class=\"oi oi-chevron-left d-lg-none me-1\" role=\"presentation\"/>All "
 "Products"
 msgstr ""
+"<i class=\"oi oi-chevron-left d-lg-none me-1\" role=\"presentation\"/>Усі "
+"товари"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.product
 msgid "<i class=\"oi oi-chevron-left me-1\" role=\"presentation\"/>All Products"
-msgstr ""
+msgstr "<i class=\"oi oi-chevron-left me-1\" role=\"presentation\"/>Усі товари"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.shop_product_carousel
@@ -289,6 +293,9 @@ msgid ""
 "                                                        Changing company name or VAT number is not allowed once document(s) have been issued for your account. Please contact us directly for this operation.\n"
 "                                                    </small>"
 msgstr ""
+"<small class=\"form-text text-muted\">\n"
+"                                                        Після випуску документів для вашого облікового запису змінювати назву компанії або номер ПДВ не дозволяється. Для виконання цієї операції зверніться до нас безпосередньо.\n"
+"                                                    </small>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.products_attributes
@@ -296,6 +303,8 @@ msgid ""
 "<small class=\"mx-auto\"><b>Clear Filters</b></small>\n"
 "                            <i class=\"oi oi-close\" role=\"presentation\"/>"
 msgstr ""
+"<small class=\"mx-auto\"><b>Очистити фільтри</b></small>\n"
+"                            <i class=\"oi oi-close\" role=\"presentation\"/>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.suggested_products_list
@@ -350,6 +359,9 @@ msgid ""
 "                    Select to compute delivery rate\n"
 "                </span>"
 msgstr ""
+"<span class=\"o_wsale_delivery_price_badge float-end fw-bold\" name=\"price\">\n"
+"                    Виберіть, щоб обчислити тариф доставки\n"
+"                </span>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.address
@@ -395,7 +407,7 @@ msgstr "<span><b>Гарна робота!</b> Ви пройшли всі кро�
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.address
 msgid "<span>Already have an account?</span>"
-msgstr ""
+msgstr "<span>Уже маєте обліковий запис?</span>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.confirmation
@@ -405,7 +417,7 @@ msgstr "<span>Замовлення</span>"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.product_document_kanban
 msgid "<span>Publish on website</span>"
-msgstr ""
+msgstr "<span>Опублікувати на вебсайті</span>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.payment_confirmation_status
@@ -424,7 +436,7 @@ msgstr "<span>Попередній перегляд відео</span>"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.delivery_form
 msgid "<strong>No suitable delivery method could be found.</strong>"
-msgstr ""
+msgstr "<strong>Не вдалося знайти відповідний спосіб доставки.</strong>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.confirmation
@@ -527,6 +539,8 @@ msgid ""
 "                                      this page. Use '/' to discover more "
 "features."
 msgstr ""
+"Детальний форматований опис для просування товару на цій сторінці. "
+"Використовуйте '/', щоб відкрити більше можливостей."
 
 #. module: website_sale
 #: model_terms:ir.actions.act_window,help:website_sale.product_template_action_website
@@ -663,6 +677,8 @@ msgid ""
 "Add a strikethrough price to your /shop and product pages for comparison "
 "purposes.It will not be displayed if pricelists apply."
 msgstr ""
+"Додайте перекреслену ціну на сторінках /shop і товару для порівняння. Вона "
+"не відображатиметься, якщо застосовуються прайс-листи."
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
@@ -734,6 +750,8 @@ msgid ""
 "Allow customers to pick up their online purchases at your store and pay in "
 "person"
 msgstr ""
+"Дозволити клієнтам забирати онлайн-покупки у вашому магазині та оплачувати "
+"їх на місці"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
@@ -1275,7 +1293,7 @@ msgstr ""
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.snippet_options
 msgid "Collapsible sidebar"
-msgstr ""
+msgstr "Згортана бічна панель"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.snippet_options
@@ -1346,6 +1364,8 @@ msgid ""
 "Compute shipping costs and ship with DHL<br/>\n"
 "                            <strong>(please go to Home&gt;Apps to install)</strong>"
 msgstr ""
+"Обчислювати вартість доставки та відправляти через DHL<br/>\n"
+"                            <strong>(перейдіть до Головна&gt;Застосунки для встановлення)</strong>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
@@ -1353,6 +1373,8 @@ msgid ""
 "Compute shipping costs and ship with FedEx<br/>\n"
 "                            <strong>(please go to Home&gt;Apps to install)</strong>"
 msgstr ""
+"Обчислювати вартість доставки та відправляти через FedEx<br/>\n"
+"                            <strong>(перейдіть до Головна&gt;Застосунки для встановлення)</strong>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
@@ -1360,6 +1382,8 @@ msgid ""
 "Compute shipping costs and ship with UPS<br/>\n"
 "                            <strong>(please go to Home&gt;Apps to install)</strong>"
 msgstr ""
+"Обчислювати вартість доставки та відправляти через UPS<br/>\n"
+"                            <strong>(перейдіть до Головна&gt;Застосунки для встановлення)</strong>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
@@ -1367,6 +1391,8 @@ msgid ""
 "Compute shipping costs and ship with USPS<br/>\n"
 "                            <strong>(please go to Home&gt;Apps to install)</strong>"
 msgstr ""
+"Обчислювати вартість доставки та відправляти через USPS<br/>\n"
+"                            <strong>(перейдіть до Головна&gt;Застосунки для встановлення)</strong>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
@@ -1626,7 +1652,7 @@ msgstr "DHL"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.product
 msgid "DROP BUILDING BLOCKS HERE TO MAKE THEM AVAILABLE ACROSS ALL PRODUCTS"
-msgstr "DROP BUILDING BLOCKS HERE TO MAKE THEM AVAILABLE ACROSS ALL PRODUCTS"
+msgstr "ПЕРЕТЯГНІТЬ СЮДИ БЛОКИ, ЩОБ ЗРОБИТИ ЇХ ДОСТУПНИМИ ДЛЯ ВСІХ ТОВАРІВ"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.snippet_options
@@ -1676,7 +1702,7 @@ msgstr "Визначіть нову категорію"
 #. module: website_sale
 #: model_terms:ir.actions.act_window,help:website_sale.product_ribbon_action
 msgid "Define a new ribbon"
-msgstr ""
+msgstr "Визначити нову стрічку"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.snippet_options
@@ -1733,7 +1759,7 @@ msgstr ""
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.product_public_category_form_view
 msgid "Description displayed on the eCommerce categories page."
-msgstr ""
+msgstr "Опис, що відображається на сторінці категорій eCommerce."
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_delivery_carrier__website_description
@@ -1889,6 +1915,8 @@ msgid ""
 "Drag building blocks here to customize the footer for\n"
 "                                    \""
 msgstr ""
+"Перетягніть сюди блоки, щоб налаштувати нижній колонтитул для\n"
+"                                    \""
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.products
@@ -1896,6 +1924,8 @@ msgid ""
 "Drag building blocks here to customize the header for\n"
 "                                    \""
 msgstr ""
+"Перетягніть сюди блоки, щоб налаштувати верхній колонтитул для\n"
+"                                    \""
 
 #. module: website_sale
 #. odoo-python
@@ -1957,7 +1987,7 @@ msgstr "Доступ до електронної комерції"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.product_template_form_view
 msgid "Ecommerce Description"
-msgstr ""
+msgstr "Опис електронної комерції"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.product_template_form_view
@@ -2005,7 +2035,7 @@ msgstr "Код для влаштування"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
 msgid "Enforce a customer to be logged in to access 'Shop'"
-msgstr ""
+msgstr "Вимагати входу клієнта для доступу до «Магазину»"
 
 #. module: website_sale
 #. odoo-javascript
@@ -2206,7 +2236,7 @@ msgstr "Сітка"
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_website__shop_gap
 msgid "Grid-gap on the shop"
-msgstr ""
+msgstr "Відступ сітки в магазині"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.sale_report_view_search_website
@@ -2562,7 +2592,7 @@ msgstr "Лівий"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
 msgid "Let the customer enter a delivery address"
-msgstr ""
+msgstr "Дозволити клієнту вводити адресу доставки"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
@@ -3255,7 +3285,7 @@ msgstr "Ціновий список доступний для цієї елек�
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.total
 msgid "Price will be updated after choosing a delivery method"
-msgstr ""
+msgstr "Ціну буде оновлено після вибору способу доставки"
 
 #. module: website_sale
 #: model:ir.model,name:website_sale.model_product_pricelist
@@ -3545,7 +3575,7 @@ msgstr ""
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_product_document__shown_on_product_page
 msgid "Publish on website"
-msgstr ""
+msgstr "Опублікувати на вебсайті"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.product_pages_kanban_view
@@ -3723,7 +3753,7 @@ msgstr "Замінити"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.snippet_options
 msgid "Reset Categories"
-msgstr ""
+msgstr "Скинути категорії"
 
 #. module: website_sale
 #: model:ir.model.fields,help:website_sale.field_delivery_carrier__website_id
@@ -3732,7 +3762,7 @@ msgstr ""
 #: model:ir.model.fields,help:website_sale.field_product_tag__website_id
 #: model:ir.model.fields,help:website_sale.field_product_template__website_id
 msgid "Restrict to a specific website."
-msgstr ""
+msgstr "Обмежити конкретним вебсайтом."
 
 #. module: website_sale
 #. odoo-python
@@ -3836,7 +3866,7 @@ msgstr "Продавець"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.billing_address_row
 msgid "Same as delivery address"
-msgstr ""
+msgstr "Як адреса доставки"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.dynamic_filter_template_product_product_add_to_cart
@@ -3892,12 +3922,12 @@ msgstr "Обрати кількість"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.delivery_method
 msgid "Select a location"
-msgstr ""
+msgstr "Виберіть місце"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.website_sale_pricelist_form_view
 msgid "Select a website"
-msgstr ""
+msgstr "Виберіть вебсайт"
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_product_pricelist__selectable
@@ -4011,7 +4041,7 @@ msgstr "Типове сортування магазину"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
 msgid "Shop, products, cart and wishlist visibility"
-msgstr ""
+msgstr "Видимість магазину, товарів, кошика та списку бажань"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.products_add_to_cart
@@ -4393,7 +4423,7 @@ msgstr "Ця комбінація не існує."
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.accordion_more_information
 msgid "This content will be shared across all product pages."
-msgstr ""
+msgstr "Цей вміст буде спільним для всіх сторінок товарів."
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.cart
@@ -4713,7 +4743,7 @@ msgstr "Гарантія"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.s_dynamic_snippet_products_preview_data
 msgid "Warranty (2 year)"
-msgstr ""
+msgstr "Гарантія (2 роки)"
 
 #. module: website_sale
 #: model:product.template,description_sale:website_sale.product_product_1_product_template
@@ -4745,7 +4775,7 @@ msgstr "Веб-сайт"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.product_product_view_form_normalized
 msgid "Website Category"
-msgstr ""
+msgstr "Категорія вебсайту"
 
 #. module: website_sale
 #: model:ir.model,name:website_sale.model_website_menu
@@ -4906,6 +4936,8 @@ msgid ""
 "                                        at the same time!<br/>\n"
 "                                        If you want to modify your billing address, create a"
 msgstr ""
+"Ви одночасно редагуєте адреси <b>доставки та виставлення рахунків</b>!<br/>\n"
+"                                        Якщо ви хочете змінити адресу для виставлення рахунків, створіть"
 
 #. module: website_sale
 #. odoo-python
@@ -4944,6 +4976,8 @@ msgid ""
 "Your Dynamic Snippet will be displayed here...\n"
 "                                This message is displayed because you did not provide both a filter and a template to use."
 msgstr ""
+"Ваш динамічний фрагмент відображатиметься тут...\n"
+"                                Це повідомлення показано, оскільки ви не вказали одночасно фільтр і шаблон."
 
 #. module: website_sale
 #. odoo-javascript

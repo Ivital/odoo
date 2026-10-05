@@ -223,9 +223,9 @@ msgid ""
 "                    <br/>\n"
 "                        <font style=\"font-size: 62px; background-color: rgb(255, 255, 255);\">&amp;nbsp;SALES&amp;nbsp;</font>"
 msgstr ""
-"<font style=\"font-size: 62px; background-color: rgb(255, 255, 255);\">&amp;nbsp;10% OFF&amp;nbsp;</font>\n"
+"<font style=\"font-size: 62px; background-color: rgb(255, 255, 255);\">&amp;nbsp;ЗНИЖКА 10%&amp;nbsp;</font>\n"
 "                    <br/>\n"
-"                        <font style=\"font-size: 62px; background-color: rgb(255, 255, 255);\">&amp;nbsp;SALES&amp;nbsp;</font>"
+"                        <font style=\"font-size: 62px; background-color: rgb(255, 255, 255);\">&amp;nbsp;РОЗПРОДАЖ&amp;nbsp;</font>"
 
 #. module: mass_mailing_themes
 #: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template

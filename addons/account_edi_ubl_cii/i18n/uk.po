@@ -634,7 +634,7 @@ msgstr "FTI Італія"
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields.selection,name:account_edi_ubl_cii.selection__res_partner__peppol_eas__0211
 msgid "Italia Partita IVA"
-msgstr "Italia Partita IVA"
+msgstr "Італія Partita IVA"
 
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields.selection,name:account_edi_ubl_cii.selection__res_partner__peppol_eas__0221
@@ -654,7 +654,7 @@ msgstr "Запис у журналі"
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields.selection,name:account_edi_ubl_cii.selection__res_partner__peppol_eas__9919
 msgid "Kennziffer des Unternehmensregisters"
-msgstr "Kennziffer des Unternehmensregisters"
+msgstr "Ідентифікаційний номер реєстру підприємств"
 
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields.selection,name:account_edi_ubl_cii.selection__res_partner__peppol_eas__0218
@@ -669,7 +669,7 @@ msgstr "ПДВ Латвії"
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields.selection,name:account_edi_ubl_cii.selection__res_partner__peppol_eas__0199
 msgid "Legal Entity Identifier (LEI)"
-msgstr "Legal Entity Identifier (LEI)"
+msgstr "Ідентифікатор юридичної особи (LEI)"
 
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields.selection,name:account_edi_ubl_cii.selection__res_partner__peppol_eas__9936

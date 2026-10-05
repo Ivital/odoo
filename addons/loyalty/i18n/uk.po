@@ -239,7 +239,7 @@ msgid ""
 "<span class=\"text-center\">OR</span>\n"
 "                                        <br/>"
 msgstr ""
-"<span class=\"text-center\">OR</span>\n"
+"<span class=\"text-center\">АБО</span>\n"
 "                                        <br/>"
 
 #. module: loyalty

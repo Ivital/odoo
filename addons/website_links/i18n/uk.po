@@ -48,7 +48,7 @@ msgstr "<i class=\"fa fa-copy me-2\"/>Копіювати"
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
 msgid "<span class=\"text-muted me-1\">Sort By:</span>"
-msgstr ""
+msgstr "<span class=\"text-muted me-1\">Сортувати за:</span>"
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.graphs
@@ -104,12 +104,12 @@ msgstr "Копія"
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
 msgid "Create a Link tracker"
-msgstr ""
+msgstr "Створити трекер посилань"
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
 msgid "Create another Tracker"
-msgstr ""
+msgstr "Створити інший трекер"
 
 #. module: website_links
 #. odoo-javascript
@@ -126,7 +126,7 @@ msgstr "Редагувати код"
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
 msgid "Generate Link Tracker"
-msgstr ""
+msgstr "Створити трекер посилань"
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
@@ -304,7 +304,7 @@ msgstr "посилання"
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
 msgid "e.g. \"Black Friday Mailing Campaign\""
-msgstr ""
+msgstr "наприклад, \"Розсилка Чорної п’ятниці\""
 
 #. module: website_links
 #. odoo-javascript

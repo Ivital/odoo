@@ -1408,7 +1408,7 @@ msgstr "Філтр верхньої панелі"
 #. odoo-python
 #: code:addons/website_event/models/website_visitor.py:0
 msgid "Unsupported 'Not In' operation on visitors registrations"
-msgstr ""
+msgstr "Непідтримувана операція «Not In» для реєстрацій відвідувачів"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.event_time
@@ -1451,7 +1451,7 @@ msgstr "Використовується, коли не є меню на осн�
 #. odoo-python
 #: code:addons/website_event/models/event_event.py:0
 msgid "Value should be True or False (not %)"
-msgstr ""
+msgstr "Значення має бути True або False (не %)"
 
 #. module: website_event
 #: model:event.question.answer,name:website_event.event_0_question_0_answer_1

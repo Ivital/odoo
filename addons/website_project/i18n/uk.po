@@ -92,7 +92,7 @@ msgstr "Перейти на домашню сторінку"
 #. odoo-javascript
 #: code:addons/website_project/static/src/js/website_project_editor.js:0
 msgid "Message Subject"
-msgstr ""
+msgstr "Тема повідомлення"
 
 #. module: website_project
 #. odoo-python

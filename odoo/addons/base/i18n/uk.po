@@ -30991,7 +30991,7 @@ msgstr "Рядок"
 #. odoo-python
 #: code:addons/base/models/ir_qweb_fields.py:0
 msgid "Linebreak"
-msgstr "Linebreak"
+msgstr "Перенесення рядка"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_base_partner_merge_automatic_wizard__line_ids

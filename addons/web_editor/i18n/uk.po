@@ -70,7 +70,7 @@ msgstr "(ALT-тег)"
 #. odoo-javascript
 #: code:addons/web_editor/static/src/js/wysiwyg/widgets/alt_dialog.xml:0
 msgid "(TITLE Tag)"
-msgstr "(TITLE Tag)"
+msgstr "(тег TITLE)"
 
 #. module: web_editor
 #. odoo-javascript

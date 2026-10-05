@@ -487,7 +487,7 @@ msgstr "Дякуємо за ваш донат"
 #. odoo-javascript
 #: code:addons/website_payment/static/src/snippets/s_donation/000.js:0
 msgid "The minimum donation amount is %(amount)s"
-msgstr ""
+msgstr "Мінімальна сума пожертви становить %(amount)s"
 
 #. module: website_payment
 #: model_terms:ir.ui.view,arch_db:website_payment.donation_pay

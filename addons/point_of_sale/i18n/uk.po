@@ -2470,7 +2470,7 @@ msgstr "Дата"
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/utils/date_picker_popup/date_picker_popup.js:0
 msgid "DatePicker"
-msgstr "DatePicker"
+msgstr "Вибір дати"
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -2660,7 +2660,7 @@ msgstr "Рахунок призначення лише для читання"
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/store/pos_store.js:0
 msgid "Detailed Receipt"
-msgstr ""
+msgstr "Детальний чек"
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -3237,7 +3237,7 @@ msgstr "Магазин меблів"
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/store/pos_store.js:0
 msgid "General Message"
-msgstr ""
+msgstr "Загальне повідомлення"
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -4564,7 +4564,7 @@ msgstr "Немає в рахунку"
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/printer/base_printer.js:0
 msgid "Not implemented"
-msgstr ""
+msgstr "Не реалізовано"
 
 #. module: point_of_sale
 #: model:ir.actions.act_window,name:point_of_sale.action_pos_note_model
@@ -7041,7 +7041,7 @@ msgstr "Звіт сесії"
 #. odoo-python
 #: code:addons/point_of_sale/models/pos_session.py:0
 msgid "Session already closed"
-msgstr ""
+msgstr "Сесію вже закрито"
 
 #. module: point_of_sale
 #: model:mail.activity.type,name:point_of_sale.mail_activity_old_session

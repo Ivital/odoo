@@ -15311,7 +15311,7 @@ msgstr ""
 #: model:ir.module.module,shortdesc:base.module_accountant
 #: model_terms:ir.ui.view,arch_db:base.user_groups_view
 msgid "Accounting"
-msgstr "Бухоблік"
+msgstr "Бухгалтерський облік"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mrp_account
@@ -21915,7 +21915,7 @@ msgstr "Контракт - Підпис"
 #. module: base
 #: model:ir.module.category,name:base.module_category_human_resources_contracts
 msgid "Contracts"
-msgstr "Контракти"
+msgstr "Договори"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_module_module__contributors
@@ -24562,7 +24562,7 @@ msgstr "Рекомендації співробітника"
 #: model:ir.module.module,shortdesc:base.module_hr
 #: model:res.partner.category,name:base.res_partner_category_3
 msgid "Employees"
-msgstr "Співробітники"
+msgstr "Працівники"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_l10n_mx_hr
@@ -28357,7 +28357,7 @@ msgstr "IM Bus"
 #: model:ir.model.fields,field_description:base.field_res_device__ip_address
 #: model:ir.model.fields,field_description:base.field_res_device_log__ip_address
 msgid "IP Address"
-msgstr "IP адреса"
+msgstr "IP-адреса"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.ir_profile_view_form
@@ -38687,7 +38687,7 @@ msgstr "Пули"
 #: model:ir.module.module,shortdesc:base.module_purchase
 #: model_terms:ir.ui.view,arch_db:base.view_partner_form
 msgid "Purchase"
-msgstr "Купівля"
+msgstr "Закупівля"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_purchase_requisition
@@ -46762,7 +46762,7 @@ msgstr "URL вебхука"
 #: model_terms:ir.ui.view,arch_db:base.view_partner_address_form
 #: model_terms:ir.ui.view,arch_db:base.view_partner_form
 msgid "Website"
-msgstr "Веб-сайт"
+msgstr "Вебсайт"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_website_payment_authorize

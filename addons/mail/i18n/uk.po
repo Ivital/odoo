@@ -8777,7 +8777,7 @@ msgstr "Пошук"
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.mail_alias_view_search
 msgid "Search Alias"
-msgstr "Пошук псевдоніму"
+msgstr "Псевдонім пошуку"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.discuss_channel_view_search

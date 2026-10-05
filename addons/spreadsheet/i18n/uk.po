@@ -4836,7 +4836,7 @@ msgstr "Значення Look up."
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/o_spreadsheet/o_spreadsheet.js:0
 msgid "Lookup"
-msgstr "Lookup"
+msgstr "Пошук"
 
 #. module: spreadsheet
 #. odoo-javascript

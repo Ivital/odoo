@@ -20930,7 +20930,7 @@ msgstr "Управління чеками"
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_attachment__checksum
 msgid "Checksum/SHA1"
-msgstr "Checksum/SHA1"
+msgstr "Контрольна сума/SHA1"
 
 #. module: base
 #: model:res.currency,currency_subunit_label:base.BTN
@@ -40046,7 +40046,7 @@ msgstr "SSL/TLS"
 #. module: base
 #: model_terms:res.company,invoice_terms_html:base.main_company
 msgid "STANDARD TERMS AND CONDITIONS OF SALE"
-msgstr "STANDARD TERMS AND CONDITIONS OF SALE"
+msgstr "СТАНДАРТНІ УМОВИ ПРОДАЖУ"
 
 #. module: base
 #: model:res.country,name:base.bl
@@ -47905,7 +47905,7 @@ msgstr "подвійний"
 #. module: base
 #: model:ir.model.fields.selection,name:base.selection__ir_model_fields__ttype__boolean
 msgid "boolean"
-msgstr "boolean"
+msgstr "логічний"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_delivery_bpost
@@ -48229,7 +48229,7 @@ msgstr "init"
 #. module: base
 #: model:ir.model.fields.selection,name:base.selection__ir_model_fields__ttype__integer
 msgid "integer"
-msgstr "integer"
+msgstr "ціле число"
 
 #. module: base
 #: model:ir.model.fields.selection,name:base.selection__ir_ui_menu__action__ir_actions_act_url
@@ -48295,7 +48295,7 @@ msgstr "Не вдалося встановити модуль(і) та було 
 #. module: base
 #: model:ir.model.fields.selection,name:base.selection__ir_model_fields__ttype__monetary
 msgid "monetary"
-msgstr "monetary"
+msgstr "грошовий"
 
 #. module: base
 #. odoo-python

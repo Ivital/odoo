@@ -11493,7 +11493,7 @@ msgstr "desert island"
 #. odoo-javascript
 #: code:addons/web/static/src/core/emoji_picker/emoji_data.js:0
 msgid "desktop"
-msgstr "desktop"
+msgstr "настільний"
 
 #. module: web
 #. odoo-javascript
@@ -12212,7 +12212,7 @@ msgstr "elf"
 #. odoo-javascript
 #: code:addons/web/static/src/core/emoji_picker/emoji_data.js:0
 msgid "email"
-msgstr "email"
+msgstr "електронна пошта"
 
 #. module: web
 #. odoo-javascript
@@ -16064,13 +16064,13 @@ msgstr "lantern"
 #. odoo-javascript
 #: code:addons/web/static/src/core/emoji_picker/emoji_data.js:0
 msgid "laptop"
-msgstr "laptop"
+msgstr "ноутбук"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/emoji_picker/emoji_data.js:0
 msgid "large"
-msgstr "large"
+msgstr "великий"
 
 #. module: web
 #. odoo-javascript
@@ -17390,7 +17390,7 @@ msgstr "meditation"
 #. odoo-javascript
 #: code:addons/web/static/src/core/emoji_picker/emoji_data.js:0
 msgid "medium"
-msgstr "medium"
+msgstr "середній"
 
 #. module: web
 #. odoo-javascript
@@ -17636,7 +17636,7 @@ msgstr "moai"
 #. odoo-javascript
 #: code:addons/web/static/src/core/emoji_picker/emoji_data.js:0
 msgid "mobile"
-msgstr "mobile"
+msgstr "мобільний"
 
 #. module: web
 #. odoo-javascript
@@ -22335,7 +22335,7 @@ msgstr "sly"
 #. odoo-javascript
 #: code:addons/web/static/src/core/emoji_picker/emoji_data.js:0
 msgid "small"
-msgstr "small"
+msgstr "малий"
 
 #. module: web
 #. odoo-javascript
@@ -22677,7 +22677,7 @@ msgstr "sow"
 #. odoo-javascript
 #: code:addons/web/static/src/core/emoji_picker/emoji_data.js:0
 msgid "space"
-msgstr "space"
+msgstr "пробіл"
 
 #. module: web
 #. odoo-javascript
@@ -23757,7 +23757,7 @@ msgstr "telescope"
 #. odoo-javascript
 #: code:addons/web/static/src/core/emoji_picker/emoji_data.js:0
 msgid "television"
-msgstr "television"
+msgstr "телевізор"
 
 #. module: web
 #. odoo-javascript

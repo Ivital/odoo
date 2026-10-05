@@ -3470,7 +3470,7 @@ msgstr "Фінальне розташування"
 #. module: stock
 #: model:product.removal,name:stock.removal_fifo
 msgid "First In First Out (FIFO)"
-msgstr "First In First Out (FIFO)"
+msgstr "Першим прийшов — першим вибув (FIFO)"
 
 #. module: stock
 #. odoo-javascript

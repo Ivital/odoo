@@ -13482,7 +13482,7 @@ msgstr "SO123"
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.account_default_terms_and_conditions
 msgid "STANDARD TERMS AND CONDITIONS OF SALE"
-msgstr "STANDARD TERMS AND CONDITIONS OF SALE"
+msgstr "СТАНДАРТНІ УМОВИ ПРОДАЖУ"
 
 #. module: account
 #: model:account.account,name:account.1_expense_salary

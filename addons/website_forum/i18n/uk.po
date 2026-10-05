@@ -190,13 +190,13 @@ msgstr "&amp;nbsp;"
 #. odoo-javascript
 #: code:addons/website_forum/static/src/xml/website_forum_tags_wrapper.xml:0
 msgid "'Please enter 2 or more characters'"
-msgstr ""
+msgstr "'Введіть 2 або більше символів'"
 
 #. module: website_forum
 #. odoo-javascript
 #: code:addons/website_forum/static/src/xml/website_forum_tags_wrapper.xml:0
 msgid "'Tags'"
-msgstr ""
+msgstr "'Теги'"
 
 #. module: website_forum
 #: model_terms:forum.forum,faq:website_forum.forum_help
@@ -1015,7 +1015,7 @@ msgstr "Заархівовано"
 #. odoo-javascript
 #: code:addons/website_forum/static/src/js/website_forum.js:0
 msgid "Are you sure you want to delete this comment?"
-msgstr ""
+msgstr "Ви впевнені, що хочете видалити цей коментар?"
 
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.post_description_full
@@ -1280,7 +1280,7 @@ msgstr "Натисніть, щоб опублікувати ваше запит�
 #. odoo-javascript
 #: code:addons/website_forum/static/src/js/tours/website_forum.js:0
 msgid "Click to reply."
-msgstr ""
+msgstr "Натисніть, щоб відповісти."
 
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.post_dropdown
@@ -1474,7 +1474,7 @@ msgstr "Створіть нові теги"
 #. odoo-javascript
 #: code:addons/website_forum/static/src/xml/website_forum_tags_wrapper.xml:0
 msgid "Create option \""
-msgstr ""
+msgstr "Створити опцію \""
 
 #. module: website_forum
 #: model_terms:gamification.badge,description:website_forum.badge_32
@@ -2637,7 +2637,7 @@ msgstr "Образливі публікації"
 #. odoo-javascript
 #: code:addons/website_forum/static/src/js/website_forum.js:0
 msgid "Oh no! Please <a href=\"%s\">sign in</a> to perform this action"
-msgstr ""
+msgstr "О ні! Будь ласка, <a href=\"%s\">увійдіть</a>, щоб виконати цю дію"
 
 #. module: website_forum
 #. odoo-javascript

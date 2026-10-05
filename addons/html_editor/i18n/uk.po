@@ -50,7 +50,7 @@ msgstr "(ALT-тег)"
 #. odoo-javascript
 #: code:addons/html_editor/static/src/main/media/image_description.xml:0
 msgid "(TITLE Tag)"
-msgstr "(TITLE Tag)"
+msgstr "(тег TITLE)"
 
 #. module: html_editor
 #. odoo-javascript

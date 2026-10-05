@@ -1863,7 +1863,7 @@ msgstr "Browser ключі"
 #. odoo-python
 #: code:addons/mail/models/mail_thread_cc.py:0
 msgid "CC Email"
-msgstr "CC Email"
+msgstr "Копія листа"
 
 #. module: mail
 #. odoo-javascript
@@ -2875,7 +2875,7 @@ msgstr "Кастомізовані сповіщення"
 #. odoo-javascript
 #: code:addons/mail/static/src/discuss/call/common/call_context_menu.xml:0
 msgid "DTLS:"
-msgstr "DTLS:"
+msgstr "Деталі:"
 
 #. module: mail
 #. odoo-javascript
@@ -11657,7 +11657,7 @@ msgstr "псевдонім"
 #. odoo-python
 #: code:addons/mail/models/mail_thread.py:0
 msgid "alias %(name)s: %(error)s"
-msgstr "alias %(name)s: %(error)s"
+msgstr "псевдонім %(name)s: %(error)s"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.view_mail_form

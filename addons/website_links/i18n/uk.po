@@ -115,7 +115,7 @@ msgstr "Створити інший трекер"
 #. odoo-javascript
 #: code:addons/website_links/static/src/xml/website_links_tags_wrapper.xml:0
 msgid "Create option \""
-msgstr ""
+msgstr "Створити опцію \""
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
@@ -190,6 +190,8 @@ msgid ""
 "Only letters (A–Z, a–z), numbers (0–9), underscores (_) and hyphens (-) are "
 "allowed. No spaces."
 msgstr ""
+"Дозволені лише літери (A–Z, a–z), цифри (0–9), підкреслення (_) і дефіси "
+"(-). Без пробілів."
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
@@ -270,7 +272,7 @@ msgstr "Невизначений"
 #. odoo-javascript
 #: code:addons/website_links/static/src/xml/recent_link.xml:0
 msgid "Visit Link"
-msgstr ""
+msgstr "Відвідати посилання"
 
 #. module: website_links
 #. odoo-python
@@ -310,19 +312,19 @@ msgstr "наприклад, \"Розсилка Чорної п’ятниці\""
 #. odoo-javascript
 #: code:addons/website_links/static/src/js/website_links.js:0
 msgid "e.g. InMails, Ads, Social, ..."
-msgstr "e.g. InMails, Ads, Social, ..."
+msgstr "напр., InMails, реклама, соцмережі, ..."
 
 #. module: website_links
 #. odoo-javascript
 #: code:addons/website_links/static/src/js/website_links.js:0
 msgid "e.g. June Sale, Paris Roadshow, ..."
-msgstr "e.g. June Sale, Paris Roadshow, ..."
+msgstr "напр., червневий розпродаж, роуд-шоу в Парижі, ..."
 
 #. module: website_links
 #. odoo-javascript
 #: code:addons/website_links/static/src/js/website_links.js:0
 msgid "e.g. LinkedIn, Facebook, Leads, ..."
-msgstr "e.g. LinkedIn, Facebook, Leads, ..."
+msgstr "напр., LinkedIn, Facebook, ліди, ..."
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url

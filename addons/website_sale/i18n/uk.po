@@ -511,6 +511,7 @@ msgstr "<u>Терміни та умови</u>"
 #: code:addons/website_sale/controllers/combo_configurator.py:0
 msgid "A combo product can't be empty. Please select at least one option."
 msgstr ""
+"Комбінований товар не може бути порожнім. Виберіть щонайменше одну опцію."
 
 #. module: website_sale
 #: model:ir.model.fields,help:website_sale.field_delivery_carrier__website_description
@@ -806,7 +807,7 @@ msgstr "Застосувати"
 #. odoo-javascript
 #: code:addons/website_sale/static/src/js/website_sale.editor.js:0
 msgid "Are you sure you want to delete this ribbon?"
-msgstr ""
+msgstr "Ви впевнені, що хочете видалити цю стрічку?"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
@@ -1408,7 +1409,7 @@ msgstr "Обчислюйте витрати на доставку на замо�
 #. odoo-javascript
 #: code:addons/website_sale/static/src/js/checkout.js:0
 msgid "Computed after delivery"
-msgstr ""
+msgstr "Обчислюється після доставки"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.s_dynamic_snippet_products_preview_data
@@ -2149,6 +2150,8 @@ msgstr "Заповніть вашу адресу"
 msgid ""
 "Final price may vary based on selection. Tax will be calculated at checkout."
 msgstr ""
+"Кінцева ціна може змінюватися залежно від вибору. Податок буде розраховано "
+"під час оформлення."
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_website__fiscal_position_id
@@ -2488,6 +2491,8 @@ msgid ""
 "It seems that there is already a transaction for your order; you can't "
 "change the delivery method anymore."
 msgstr ""
+"Схоже, для вашого замовлення вже є транзакція; спосіб доставки більше не "
+"можна змінити."
 
 #. module: website_sale
 #. odoo-javascript
@@ -2943,7 +2948,7 @@ msgstr "Неопубліковано"
 #. odoo-javascript
 #: code:addons/website_sale/static/src/js/product/product.xml:0
 msgid "Not available for sale"
-msgstr ""
+msgstr "Недоступно для продажу"
 
 #. module: website_sale
 #. odoo-javascript
@@ -3177,7 +3182,7 @@ msgstr "Платіжні операції"
 #. odoo-python
 #: code:addons/website_sale/controllers/payment.py:0
 msgid "Payment is already being processed."
-msgstr ""
+msgstr "Платіж уже обробляється."
 
 #. module: website_sale
 #. odoo-python
@@ -4145,7 +4150,7 @@ msgstr "Деякі обов’язкові поля пусті."
 #. odoo-python
 #: code:addons/website_sale/controllers/main.py:0
 msgid "Sorry, we are unable to ship your order."
-msgstr ""
+msgstr "На жаль, ми не можемо відправити ваше замовлення."
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.snippet_options
@@ -4302,7 +4307,7 @@ msgstr "Токен доступу недійсний."
 #. odoo-python
 #: code:addons/website_sale/controllers/payment.py:0
 msgid "The cart has already been paid. Please refresh the page."
-msgstr ""
+msgstr "Кошик уже оплачено. Оновіть сторінку."
 
 #. module: website_sale
 #. odoo-python
@@ -4317,12 +4322,14 @@ msgid ""
 "The company of the website you are trying to sell from (%(website_company)s)"
 " is different than the one you want to use (%(company)s)"
 msgstr ""
+"Компанія вебсайту, з якого ви намагаєтеся продавати (%(website_company)s), "
+"відрізняється від компанії, яку ви хочете використати (%(company)s)"
 
 #. module: website_sale
 #. odoo-python
 #: code:addons/website_sale/models/sale_order.py:0
 msgid "The delivery method is not compatible with your delivery address."
-msgstr ""
+msgstr "Спосіб доставки несумісний із вашою адресою доставки."
 
 #. module: website_sale
 #: model:ir.model.fields,help:website_sale.field_delivery_carrier__website_url
@@ -5010,7 +5017,7 @@ msgstr "Ваша кошик пустий!"
 #. odoo-python
 #: code:addons/website_sale/controllers/delivery.py:0
 msgid "Your cart is empty."
-msgstr ""
+msgstr "Ваш кошик порожній."
 
 #. module: website_sale
 #. odoo-python

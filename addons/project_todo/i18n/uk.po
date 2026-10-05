@@ -236,18 +236,28 @@ msgstr ""
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
-msgid "<span style=\"font-size: 14px;\">Check this box to indicate it's done</span>"
-msgstr "<span style=\"font-size: 14px;\">Позначте це, щоби визначити як виконано</span>"
+msgid ""
+"<span style=\"font-size: 14px;\">Check this box to indicate it's done</span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">Позначте це, щоби визначити як "
+"виконано</span>"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
-msgid "<span style=\"font-size: 14px;\">Click anywhere, and just start typing</span>"
-msgstr "<span style=\"font-size: 14px;\">Клікніть будь-де і просто почніть писати</span>"
+msgid ""
+"<span style=\"font-size: 14px;\">Click anywhere, and just start "
+"typing</span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">Клікніть будь-де і просто почніть "
+"писати</span>"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
-msgid "<span style=\"font-size: 14px;\">Press Ctrl+Z/⌘+Z to undo any change</span>"
-msgstr "<span style=\"font-size: 14px;\">Натисніть Ctrl+Z/⌘+Z щоб відмінити будь-яку зміну</span>"
+msgid ""
+"<span style=\"font-size: 14px;\">Press Ctrl+Z/⌘+Z to undo any change</span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">Натисніть Ctrl+Z/⌘+Z щоб відмінити будь-яку"
+" зміну</span>"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
@@ -308,7 +318,8 @@ msgid "Add details about your to-do..."
 msgstr "Додайте деталі вашого to-do..."
 
 #. module: project_todo
-#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Archived"
 msgstr "Заархівовано"
 
@@ -318,7 +329,8 @@ msgid "Assigned to"
 msgstr "Виконавець"
 
 #. module: project_todo
-#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Assignees"
 msgstr "Виконавці"
 
@@ -349,7 +361,9 @@ msgstr "Дата закриття"
 
 #. module: project_todo
 #. odoo-javascript
-#: code:addons/project_todo/static/src/views/todo_form/todo_form_controller.js:0 model:ir.actions.act_window,name:project_todo.project_task_action_convert_todo_to_task model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_conversion_form
+#: code:addons/project_todo/static/src/views/todo_form/todo_form_controller.js:0
+#: model:ir.actions.act_window,name:project_todo.project_task_action_convert_todo_to_task
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_conversion_form
 msgid "Convert to Task"
 msgstr "Конвертувати в завдання"
 
@@ -384,7 +398,8 @@ msgid "Delete"
 msgstr "Видалити"
 
 #. module: project_todo
-#: model_terms:ir.ui.view,arch_db:project_todo.mail_activity_todo_create_popup model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_conversion_form
+#: model_terms:ir.ui.view,arch_db:project_todo.mail_activity_todo_create_popup
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_conversion_form
 msgid "Discard"
 msgstr "Відмінити"
 
@@ -488,7 +503,8 @@ msgid "Show all records which has next action date is before today"
 msgstr "Показати всі записи, які мають дату наступної дії до сьогоднішньої"
 
 #. module: project_todo
-#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_tree
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_tree
 msgid "Stage"
 msgstr "Етап"
 
@@ -509,20 +525,23 @@ msgstr "Мітки"
 
 #. module: project_todo
 #. odoo-python
-#: code:addons/project_todo/models/res_users.py:0 model:ir.model,name:project_todo.model_project_task
+#: code:addons/project_todo/models/res_users.py:0
+#: model:ir.model,name:project_todo.model_project_task
 msgid "Task"
 msgstr "Завдання"
 
 #. module: project_todo
 #. odoo-python
-#: code:addons/project_todo/models/res_users.py:0 model:ir.module.module,shortdesc:base.module_project_todo
+#: code:addons/project_todo/models/res_users.py:0
+#: model:ir.module.module,shortdesc:base.module_project_todo
 msgid "To-Do"
 msgstr "Справи"
 
 #. module: project_todo
-#: model:ir.ui.menu,name:project_todo.menu_todo_todos model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
+#: model:ir.ui.menu,name:project_todo.menu_todo_todos
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
 msgid "To-do"
-msgstr "To-do"
+msgstr "Справи"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_quick_create_form
@@ -535,7 +554,9 @@ msgid "To-do..."
 msgstr "To-do..."
 
 #. module: project_todo
-#: model:ir.actions.act_window,name:project_todo.project_task_action_todo model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_activity model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_tree
+#: model:ir.actions.act_window,name:project_todo.project_task_action_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_activity
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_tree
 msgid "To-dos"
 msgstr "To-do"
 

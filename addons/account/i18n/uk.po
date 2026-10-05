@@ -3893,22 +3893,22 @@ msgstr "імпорт CAMT"
 #. module: account
 #: model:account.incoterms,name:account.incoterm_CIP
 msgid "CARRIAGE AND INSURANCE PAID TO"
-msgstr "CARRIAGE AND INSURANCE PAID TO"
+msgstr "Перевезення та страхування оплачено до"
 
 #. module: account
 #: model:account.incoterms,name:account.incoterm_CPT
 msgid "CARRIAGE PAID TO"
-msgstr "CARRIAGE PAID TO"
+msgstr "Перевезення оплачено до"
 
 #. module: account
 #: model:account.incoterms,name:account.incoterm_CFR
 msgid "COST AND FREIGHT"
-msgstr "COST AND FREIGHT"
+msgstr "Вартість і фрахт"
 
 #. module: account
 #: model:account.incoterms,name:account.incoterm_CIF
 msgid "COST, INSURANCE AND FREIGHT"
-msgstr "COST, INSURANCE AND FREIGHT"
+msgstr "Вартість, страхування та фрахт"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.res_config_settings_view_form
@@ -5658,17 +5658,17 @@ msgstr "D"
 #. module: account
 #: model:account.incoterms,name:account.incoterm_DAP
 msgid "DELIVERED AT PLACE"
-msgstr "DELIVERED AT PLACE"
+msgstr "Доставлено в місце"
 
 #. module: account
 #: model:account.incoterms,name:account.incoterm_DPU
 msgid "DELIVERED AT PLACE UNLOADED"
-msgstr "DELIVERED AT PLACE UNLOADED"
+msgstr "Доставлено в місце, розвантажено"
 
 #. module: account
 #: model:account.incoterms,name:account.incoterm_DDP
 msgid "DELIVERED DUTY PAID"
-msgstr "DELIVERED DUTY PAID"
+msgstr "Доставлено зі сплатою мита"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.open_account_journal_dashboard_kanban
@@ -6771,7 +6771,7 @@ msgstr "Дистанційні продажі в межах ЄС"
 #. module: account
 #: model:account.incoterms,name:account.incoterm_EXW
 msgid "EX WORKS"
-msgstr "EX WORKS"
+msgstr "Франко-завод"
 
 #. module: account
 #. odoo-python
@@ -7223,17 +7223,17 @@ msgstr "Додаткові Edi"
 #. module: account
 #: model:account.incoterms,name:account.incoterm_FAS
 msgid "FREE ALONGSIDE SHIP"
-msgstr "FREE ALONGSIDE SHIP"
+msgstr "Франко вздовж борту судна"
 
 #. module: account
 #: model:account.incoterms,name:account.incoterm_FCA
 msgid "FREE CARRIER"
-msgstr "FREE CARRIER"
+msgstr "Франко-перевізник"
 
 #. module: account
 #: model:account.incoterms,name:account.incoterm_FOB
 msgid "FREE ON BOARD"
-msgstr "FREE ON BOARD"
+msgstr "Франко-борт"
 
 #. module: account
 #. odoo-python
@@ -19044,7 +19044,7 @@ msgstr "[FURN_8999] Диван на три місця"
 #: code:addons/account/models/account_move.py:0
 #: code:addons/account/wizard/account_automatic_entry_wizard.py:0
 msgid "[Not set]"
-msgstr "[Not set]"
+msgstr "[Не встановлено]"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_move_form

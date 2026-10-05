@@ -2563,6 +2563,8 @@ msgid ""
 "Add this page to the \"+New\" page templates. It will be added to the "
 "\"Custom\" category."
 msgstr ""
+"Додати цю сторінку до шаблонів сторінки \"+Новий\". Її буде додано до "
+"категорії \"Власні\"."
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.external_snippets
@@ -2595,7 +2597,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website/static/src/components/website_loader/website_loader.js:0
 msgid "Adding features."
-msgstr ""
+msgstr "Додавання функцій."
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
@@ -3378,6 +3380,8 @@ msgstr "Блокувати сторонні домени"
 msgid ""
 "Block 3rd-party domains that may track users (YouTube, Google Maps, etc.)."
 msgstr ""
+"Блокувати сторонні домени, які можуть відстежувати користувачів (YouTube, "
+"Google Maps тощо)."
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -4696,7 +4700,7 @@ msgstr "Властивості обкладинки"
 #. module: website
 #: model:ir.model,name:website.model_website_cover_properties_mixin
 msgid "Cover Properties Website Mixin"
-msgstr "Cover Properties Website Mixin"
+msgstr "Міксин властивостей обкладинки вебсайту"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_striped_center_top
@@ -7979,49 +7983,49 @@ msgstr "Зображення - перекриття тексту"
 #. odoo-javascript
 #: code:addons/website/static/src/components/website_loader/website_loader.xml:0
 msgid "Image 1"
-msgstr ""
+msgstr "Зображення 1"
 
 #. module: website
 #. odoo-javascript
 #: code:addons/website/static/src/components/website_loader/website_loader.xml:0
 msgid "Image 2"
-msgstr ""
+msgstr "Зображення 2"
 
 #. module: website
 #. odoo-javascript
 #: code:addons/website/static/src/components/website_loader/website_loader.xml:0
 msgid "Image 3"
-msgstr ""
+msgstr "Зображення 3"
 
 #. module: website
 #. odoo-javascript
 #: code:addons/website/static/src/components/website_loader/website_loader.xml:0
 msgid "Image 4"
-msgstr ""
+msgstr "Зображення 4"
 
 #. module: website
 #. odoo-javascript
 #: code:addons/website/static/src/components/website_loader/website_loader.xml:0
 msgid "Image 5"
-msgstr ""
+msgstr "Зображення 5"
 
 #. module: website
 #. odoo-javascript
 #: code:addons/website/static/src/components/website_loader/website_loader.xml:0
 msgid "Image 6"
-msgstr ""
+msgstr "Зображення 6"
 
 #. module: website
 #. odoo-javascript
 #: code:addons/website/static/src/components/website_loader/website_loader.xml:0
 msgid "Image 7"
-msgstr ""
+msgstr "Зображення 7"
 
 #. module: website
 #. odoo-javascript
 #: code:addons/website/static/src/components/website_loader/website_loader.xml:0
 msgid "Image 8"
-msgstr ""
+msgstr "Зображення 8"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
@@ -11104,7 +11108,7 @@ msgstr "Властивості сторінки"
 #. module: website
 #: model:ir.model,name:website.model_website_page_properties_base
 msgid "Page Properties Base"
-msgstr ""
+msgstr "База властивостей сторінки"
 
 #. module: website
 #. odoo-javascript
@@ -15109,6 +15113,7 @@ msgstr "Список заблокованих сторонніх доменів 
 #: model:ir.model.fields,help:website.field_website_menu__group_ids
 msgid "User needs to be at least in one of these groups to see the menu"
 msgstr ""
+"Користувач має належати щонайменше до однієї з цих груп, щоб бачити меню"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_features_wave
@@ -17612,7 +17617,7 @@ msgstr "ця сторінка"
 #. module: website
 #: model:ir.model.constraint,message:website.constraint_website_controller_page_unique_name_slugified
 msgid "url should be unique"
-msgstr ""
+msgstr "URL має бути унікальною"
 
 #. module: website
 #. odoo-javascript

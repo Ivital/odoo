@@ -84,7 +84,7 @@ msgstr "Помилка з сервером геолокації: %s"
 #. module: base_geolocalize
 #: model:ir.model,name:base_geolocalize.model_base_geocoder
 msgid "Geo Coder"
-msgstr "Geo Coder"
+msgstr "Геокодер"
 
 #. module: base_geolocalize
 #: model_terms:ir.ui.view,arch_db:base_geolocalize.view_crm_partner_geo_form

@@ -572,6 +572,9 @@ msgid ""
 "\n"
 "            Note that the Event is however always available via its link."
 msgstr ""
+"Визначає видимість події на вебсайті та в результатах пошуку.\n"
+"\n"
+"            Зауважте, що подія в будь-якому разі завжди доступна за прямим посиланням."
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.event_searchbar_input_snippet_options
@@ -1422,7 +1425,7 @@ msgstr "Найближчі події"
 #. module: website_event
 #: model:website.snippet.filter,name:website_event.website_snippet_filter_event_list_unfinished
 msgid "Upcoming and Ongoing Events"
-msgstr ""
+msgstr "Майбутні та поточні події"
 
 #. module: website_event
 #. odoo-javascript

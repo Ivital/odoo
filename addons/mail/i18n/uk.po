@@ -3782,7 +3782,7 @@ msgstr "Увімкніть замовлене відстеження"
 #. odoo-javascript
 #: code:addons/mail/static/src/core/common/composer.js:0
 msgid "Enter"
-msgstr "Enter"
+msgstr "Ввести"
 
 #. module: mail
 #. odoo-javascript
@@ -5889,7 +5889,7 @@ msgstr "Форма каналу ел. пошти"
 #. module: mail
 #: model:ir.model,name:mail.model_mail_composer_mixin
 msgid "Mail Composer Mixin"
-msgstr "Mail Composer Mixin"
+msgstr "Міксин редактора листів"
 
 #. module: mail
 #. odoo-javascript
@@ -11700,7 +11700,7 @@ msgstr "від"
 #. odoo-javascript
 #: code:addons/mail/static/src/discuss/call/common/call_context_menu.xml:0
 msgid "camera"
-msgstr "camera"
+msgstr "камера"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.mail_bounce_catchall
@@ -11757,7 +11757,7 @@ msgstr "дні:"
 #. odoo-javascript
 #: code:addons/mail/static/src/discuss/call/common/call_participant_card.xml:0
 msgid "deaf"
-msgstr "deaf"
+msgstr "глухий"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_mail_push__mail_push_device_id
@@ -12005,7 +12005,7 @@ msgstr "Помилка медіаплеєру"
 #. odoo-javascript
 #: code:addons/mail/static/src/discuss/call/common/call_context_menu.xml:0
 msgid "microphone"
-msgstr "microphone"
+msgstr "мікрофон"
 
 #. module: mail
 #. odoo-python
@@ -12096,7 +12096,7 @@ msgstr "props.action.title"
 #. odoo-javascript
 #: code:addons/mail/static/src/discuss/call/common/call_participant_card.xml:0
 msgid "raising hand"
-msgstr "raising hand"
+msgstr "піднята рука"
 
 #. module: mail
 #. odoo-python

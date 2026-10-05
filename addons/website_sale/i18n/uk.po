@@ -2342,6 +2342,9 @@ msgid ""
 "field or make it selectable.Otherwise, the pricelist will not apply to any "
 "website."
 msgstr ""
+"Щоб прайс-лист був доступний на вебсайті, потрібно заповнити це поле або "
+"зробити прайс-лист доступним для вибору. Інакше він не застосовуватиметься "
+"до жодного вебсайту."
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_product_image__image_1920

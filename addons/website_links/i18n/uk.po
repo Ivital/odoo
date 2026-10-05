@@ -13,16 +13,12 @@ msgstr ""
 "POT-Creation-Date: 2026-05-29 17:39+0000\n"
 "PO-Revision-Date: 2026-03-29 12:14+0000\n"
 "Last-Translator: Yana Bystrytska <yana.bystrytska@erp.co.ua>\n"
-"Language-Team: Ukrainian <https://translate.odoo.com/projects/odoo-18/"
-"website_links/uk/>\n"
+"Language-Team: Ukrainian <https://translate.odoo.com/projects/odoo-18/website_links/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
-"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
-"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
-"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 "X-Generator: Weblate 5.16.2\n"
 
 #. module: website_links
@@ -47,7 +43,7 @@ msgstr "%(count) країн"
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
 #: model_terms:ir.ui.view,arch_db:website_links.graphs
 msgid "<i class=\"fa fa-copy me-2\"/>Copy"
-msgstr ""
+msgstr "<i class=\"fa fa-copy me-2\"/>Копіювати"
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
@@ -135,7 +131,7 @@ msgstr ""
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
 msgid "Last Clicks"
-msgstr ""
+msgstr "Останні кліки"
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.graphs
@@ -223,7 +219,7 @@ msgstr "Статистика"
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
 msgid "Target Link"
-msgstr ""
+msgstr "Цільове посилання"
 
 #. module: website_links
 #. odoo-javascript
@@ -246,17 +242,17 @@ msgstr "Цей код вже використано"
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
 msgid ""
-"Those trackers can be used in Google Analytics to track clicks and visitors, "
-"or in Odoo reports to track opportunities and related revenues."
+"Those trackers can be used in Google Analytics to track clicks and visitors,"
+" or in Odoo reports to track opportunities and related revenues."
 msgstr ""
 "Ці відстеження можна використовувати в Google Analytics для відстеження "
-"кліків і відвідувачів, а також у звітах Odoo, щоб відстежувати можливості та "
-"пов'язані з ними доходи."
+"кліків і відвідувачів, а також у звітах Odoo, щоб відстежувати можливості та"
+" пов'язані з ними доходи."
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
 msgid "Tracked Link"
-msgstr ""
+msgstr "Відстежуване посилання"
 
 #. module: website_links
 #. odoo-javascript
@@ -337,7 +333,7 @@ msgstr "напр., https://www.odoo.com/contactus"
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
 #: model_terms:ir.ui.view,arch_db:website_links.graphs
 msgid "ok"
-msgstr "ok"
+msgstr "гаразд"
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url

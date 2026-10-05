@@ -1432,7 +1432,7 @@ msgstr "Копія електронної пошти"
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_merge_summary
 msgid "Email cc:"
-msgstr "Email cc:"
+msgstr "Копія листа:"
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_team__alias_domain

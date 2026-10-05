@@ -1852,7 +1852,7 @@ msgstr "Браузер за замовчуванням"
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_mail_push_device__endpoint
 msgid "Browser endpoint"
-msgstr "Browser endpoint"
+msgstr "Кінцева точка браузера"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_mail_push_device__keys

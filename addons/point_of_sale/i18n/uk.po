@@ -7236,7 +7236,7 @@ msgstr "Увійти"
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.res_config_settings_view_form
 msgid "Six"
-msgstr "Six"
+msgstr "Шість"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_res_config_settings__module_pos_six
@@ -9449,7 +9449,7 @@ msgstr "Принтер ePos"
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.view_pos_pos_form
 msgid "email"
-msgstr "email"
+msgstr "електронна пошта"
 
 #. module: point_of_sale
 #. odoo-javascript

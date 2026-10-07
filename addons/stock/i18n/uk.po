@@ -568,7 +568,7 @@ msgstr ""
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.stock_scrap_view_kanban
 msgid "<i class=\"fa fa-clock-o\" role=\"img\" aria-label=\"Date\" title=\"Date\"/>"
-msgstr "<i class=\"fa fa-clock-o\" role=\"img\" aria-label=\"Date\" title=\"Date\"/>"
+msgstr "<i class=\"fa fa-clock-o\" role=\"img\" aria-label=\"Дата\" title=\"Дата\"/>"
 
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.report_picking
@@ -3390,7 +3390,7 @@ msgstr "Винятки:"
 #. odoo-javascript
 #: code:addons/stock/static/src/widgets/forecast_widget.xml:0
 msgid "Exp"
-msgstr "Exp"
+msgstr "Очік."
 
 #. module: stock
 #. odoo-python
@@ -4687,7 +4687,7 @@ msgstr "Січень"
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.report_delivery_document
 msgid "John Doe"
-msgstr "John Doe"
+msgstr "Джон Доу"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_replenishment_info__json_lead_days
@@ -8094,7 +8094,7 @@ msgstr "SSCC:"
 #. module: stock
 #: model_terms:res.company,invoice_terms_html:stock.res_company_1
 msgid "STANDARD TERMS AND CONDITIONS OF SALE"
-msgstr "STANDARD TERMS AND CONDITIONS OF SALE"
+msgstr "СТАНДАРТНІ ТЕРМІНИ ТА УМОВИ ПРОДАЖУ"
 
 #. module: stock
 #. odoo-javascript

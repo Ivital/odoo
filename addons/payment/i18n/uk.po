@@ -65,7 +65,7 @@ msgstr ""
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.portal_breadcrumb
 msgid "<i class=\"fa fa-home\" role=\"img\" title=\"Home\" aria-label=\"Home\"/>"
-msgstr "<i class=\"fa fa-home\" role=\"img\" title=\"Home\" aria-label=\"Home\"/>"
+msgstr "<i class=\"fa fa-home\" role=\"img\" title=\"Головна\" aria-label=\"Головна\"/>"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.payment_capture_wizard_view_form
@@ -74,20 +74,14 @@ msgid ""
 " != 'full_only'\" title=\"Some of the transactions you intend to capture can"
 " only be captured in full. Handle the transactions individually to capture a"
 " partial amount.\"/>"
-msgstr ""
-"<i class=\"fa fa-info-circle oe_inline\" invisible=\"support_partial_capture"
-" != 'full_only'\" title=\"Some of the transactions you intend to capture can"
-" only be captured in full. Handle the transactions individually to capture a"
-" partial amount.\"/>"
+msgstr "<i class=\"fa fa-info-circle oe_inline\" invisible=\"support_partial_capture != 'full_only'\" title=\"Для деяких транзакцій отримання можливе лише в повному обсязі. Щоб отримати часткову суму, обробляйте такі транзакції окремо.\"/>"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.token_form
 msgid ""
 "<i class=\"fa fa-trash\" title=\"Delete payment method\" data-bs-"
 "toggle=\"tooltip\" data-bs-placement=\"top\" data-bs-delay=\"0\"/>"
-msgstr ""
-"<i class=\"fa fa-trash\" title=\"Delete payment method\" data-bs-"
-"toggle=\"tooltip\" data-bs-placement=\"top\" data-bs-delay=\"0\"/>"
+msgstr "<i class=\"fa fa-trash\" title=\"Видалити спосіб оплати\" data-bs-toggle=\"tooltip\" data-bs-placement=\"top\" data-bs-delay=\"0\"/>"
 
 #. module: payment
 #: model_terms:ir.actions.act_window,help:payment.action_payment_method
@@ -1612,7 +1606,7 @@ msgstr "MoMo"
 #. module: payment
 #: model:payment.method,name:payment.payment_method_mobile_money
 msgid "Mobile money"
-msgstr "Mobile money"
+msgstr "Мобільні гроші"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_mobile_pay
@@ -1757,22 +1751,22 @@ msgstr "Зображення кроку адаптації"
 #. module: payment
 #: model:payment.method,name:payment.payment_method_online_banking_czech_republic
 msgid "Online Banking Czech Republic"
-msgstr "Online Banking Czech Republic"
+msgstr "Онлайн-банкінг — Чехія"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_online_banking_india
 msgid "Online Banking India"
-msgstr "Online Banking India"
+msgstr "Онлайн-банкінг — Індія"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_online_banking_slovakia
 msgid "Online Banking Slovakia"
-msgstr "Online Banking Slovakia"
+msgstr "Онлайн-банкінг — Словаччина"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_online_banking_thailand
 msgid "Online Banking Thailand"
-msgstr "Online Banking Thailand"
+msgstr "Онлайн-банкінг — Таїланд"
 
 #. module: payment
 #: model:onboarding.onboarding.step,title:payment.onboarding_onboarding_step_payment_provider
@@ -2406,7 +2400,7 @@ msgstr "ShopeePay"
 #. module: payment
 #: model:payment.method,name:payment.payment_method_shopping
 msgid "Shopping Card"
-msgstr "Shopping Card"
+msgstr "Картка для покупок"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_scb
@@ -3080,7 +3074,7 @@ msgstr "WERO"
 #. module: payment
 #: model:payment.method,name:payment.payment_method_wallets_india
 msgid "Wallets India"
-msgstr "Wallets India"
+msgstr "Гаманці — Індія"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_walley

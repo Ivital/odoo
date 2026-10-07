@@ -157,7 +157,7 @@ msgstr "К-сть відвідувань"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.navbar
 msgid "#{_navbar_name if _navbar_name else 'Main'}"
-msgstr "#{_navbar_name if _navbar_name else 'Main'}"
+msgstr "#{_navbar_name if _navbar_name else 'Основна'}"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
@@ -183,7 +183,7 @@ msgstr "Записи %s вибрано, ви впевнені, що хочете
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 msgid "&amp;lt;head&amp;gt; and &amp;lt;/body&amp;gt;"
-msgstr "&amp;lt;head&amp;gt; and &amp;lt;/body&amp;gt;"
+msgstr "&amp;lt;head&amp;gt; та &amp;lt;/body&amp;gt;"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.list_website_public_pages
@@ -609,7 +609,7 @@ msgstr "<br/>Александр Рівера"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_references_social
 msgid "<br/>Amsterdam"
-msgstr ""
+msgstr "<br/>Амстердам"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_company_team_detail
@@ -676,7 +676,7 @@ msgstr "<br/>Найробі"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_company_team_detail
 msgid "<br/>Olivia Reed"
-msgstr ""
+msgstr "<br/>Олівія Рід"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_shape_image
@@ -942,16 +942,14 @@ msgstr "<i class=\"fa fa-fw fa-thumbs-up\"/> Лайки"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.website_visitor_view_form
 msgid "<i class=\"fa fa-fw o_button_icon fa-circle text-danger\" title=\"Offline\"/>"
-msgstr "<i class=\"fa fa-fw o_button_icon fa-circle text-danger\" title=\"Offline\"/>"
+msgstr "<i class=\"fa fa-fw o_button_icon fa-circle text-danger\" title=\"Офлайн\"/>"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.website_visitor_view_form
 msgid ""
 "<i class=\"fa fa-fw o_button_icon fa-circle text-success\" "
 "title=\"Connected\"/>"
-msgstr ""
-"<i class=\"fa fa-fw o_button_icon fa-circle text-success\" "
-"title=\"Connected\"/>"
+msgstr "<i class=\"fa fa-fw o_button_icon fa-circle text-success\" title=\"Підключено\"/>"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.website_pages_kanban_view
@@ -2744,7 +2742,7 @@ msgstr "Вирівнювання"
 #: model_terms:ir.ui.view,arch_db:website.s_company_team
 #: model_terms:ir.ui.view,arch_db:website.s_company_team_shapes
 msgid "Aline Turner"
-msgstr ""
+msgstr "Алін Тернер"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.new_page_template_team_0_s_three_columns
@@ -2752,7 +2750,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website.new_page_template_team_s_media_list
 #: model_terms:ir.ui.view,arch_db:website.s_company_team_basic
 msgid "Aline Turner, CTO"
-msgstr "Aline Turner, CTO"
+msgstr "Алін Тернер, технічний директор"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.new_page_template_team_0_s_three_columns
@@ -3648,7 +3646,7 @@ msgstr "Значок CTA"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
 msgid "CTA, button, btn, action, engagement, link, offer, appeal"
-msgstr ""
+msgstr "CTA, кнопка, btn, дія, взаємодія, посилання, пропозиція, заклик"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
@@ -3776,7 +3774,7 @@ msgstr "Не можна завантажити google-карту."
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_pricelist_cafe
 msgid "Cappuccino"
-msgstr ""
+msgstr "Капучино"
 
 #. module: website
 #. odoo-javascript
@@ -4229,7 +4227,7 @@ msgstr "Введення коду"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_pricelist_cafe
 msgid "Coffee Latte"
-msgstr ""
+msgstr "Кава лате"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_pricelist_cafe
@@ -5333,7 +5331,7 @@ msgstr "Виявити"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_pricelist_boxed
 msgid "Diavola"
-msgstr ""
+msgstr "Діавола"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.new_page_template_services_s_image_text_2nd
@@ -5655,7 +5653,7 @@ msgstr "Не містить"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 msgid "Dolly Zoom"
-msgstr "Dolly Zoom"
+msgstr "Доллі-зум"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_controller_page__record_domain
@@ -5837,7 +5835,7 @@ msgstr ""
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_pricelist_cafe
 msgid "Earl Grey"
-msgstr ""
+msgstr "Ерл Грей"
 
 #. module: website
 #. odoo-javascript
@@ -6178,7 +6176,7 @@ msgstr "Помилка"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_pricelist_cafe
 msgid "Espresso"
-msgstr "Espresso"
+msgstr "Еспресо"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_features_grid
@@ -6509,7 +6507,7 @@ msgstr "Справедлива ціна"
 #: model:ir.model.fields,field_description:website.field_res_config_settings__favicon
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Favicon"
-msgstr "Favicon"
+msgstr "Фавікон"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_three_columns
@@ -7239,7 +7237,7 @@ msgstr "Ключ Google Analytics"
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 #: model_terms:ir.ui.view,arch_db:website.snippets
 msgid "Google Map"
-msgstr "Google Map"
+msgstr "Карта Google"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website__google_maps_api_key
@@ -7265,7 +7263,7 @@ msgstr "Консоль Google Search"
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings__google_search_console
 msgid "Google Search Console Key"
-msgstr ""
+msgstr "Ключ Google Search Console"
 
 #. module: website
 #: model:ir.model.fields,help:website.field_res_config_settings__google_search_console
@@ -8503,7 +8501,7 @@ msgstr "Інвертувати кольори"
 #: model_terms:ir.ui.view,arch_db:website.s_company_team
 #: model_terms:ir.ui.view,arch_db:website.s_company_team_shapes
 msgid "Iris Joe"
-msgstr ""
+msgstr "Айрис Джо"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_company_team_basic
@@ -9717,7 +9715,7 @@ msgstr "Метадані"
 #: model_terms:ir.ui.view,arch_db:website.s_company_team
 #: model_terms:ir.ui.view,arch_db:website.s_company_team_shapes
 msgid "Mich Stark"
-msgstr ""
+msgstr "Міч Старк"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.new_page_template_team_0_s_three_columns
@@ -10056,7 +10054,7 @@ msgstr "Мій сайт"
 #: model_terms:ir.ui.view,arch_db:website.template_footer_links
 #: model_terms:ir.ui.view,arch_db:website.template_footer_minimalist
 msgid "MyCompany"
-msgstr "MyCompany"
+msgstr "Моя компанія"
 
 #. module: website
 #. odoo-javascript
@@ -11303,7 +11301,7 @@ msgstr "Оплатити"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_pricelist_boxed
 msgid "Penne all'Arrabbiata"
-msgstr ""
+msgstr "Пенне ал'Араббіата"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_pricelist_boxed
@@ -11338,7 +11336,7 @@ msgstr "Персоналізовані заняття"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_company_team_shapes
 msgid "Pete Bluestork"
-msgstr ""
+msgstr "Піт Блусторк"
 
 #. module: website
 #. odoo-javascript
@@ -11780,7 +11778,7 @@ msgstr "Пульс"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
 msgid "Punchy Image"
-msgstr ""
+msgstr "Виразне зображення"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website__domain_punycode
@@ -11817,7 +11815,7 @@ msgstr "Якість та досконалість"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_pricelist_boxed
 msgid "Quattro Stagioni"
-msgstr ""
+msgstr "Кватро Стаджоні"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.new_page_template_pricing_s_text_block_h2
@@ -13184,7 +13182,7 @@ msgstr "Щось пішло не так."
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_company_team_shapes
 msgid "Sophia Langston"
-msgstr ""
+msgstr "Софія Ленгстон"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_company_team_detail
@@ -14537,7 +14535,7 @@ msgstr "Перемкнути навігацію"
 #: model_terms:ir.ui.view,arch_db:website.s_company_team
 #: model_terms:ir.ui.view,arch_db:website.s_company_team_shapes
 msgid "Tony Fred"
-msgstr ""
+msgstr "Тоні Фред"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.new_page_template_team_0_s_three_columns
@@ -16719,7 +16717,7 @@ msgstr "закрити"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
 msgid "columns, containers, layouts, large, panels, modules"
-msgstr ""
+msgstr "стовпці, контейнери, макети, великі, панелі, модулі"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
@@ -16760,7 +16758,7 @@ msgstr ""
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
 msgid "content, paragraph, article, body, description, information"
-msgstr ""
+msgstr "вміст, абзац, стаття, основний текст, опис, інформація"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
@@ -17318,12 +17316,12 @@ msgstr ""
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
 msgid "navigation, index, outline, chapters, sections, overview, menu"
-msgstr ""
+msgstr "навігація, індекс, структура, розділи, секції, огляд, меню"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
 msgid "navigation, sections, multi-tab, panel, toggle"
-msgstr ""
+msgstr "навігація, секції, кілька вкладок, панель, перемикач"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.color_combinations_debug_view
@@ -17544,7 +17542,7 @@ msgstr "планувати зустрічі"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
 msgid "scrolling, depth, effect, background, layer, visual, movement"
-msgstr ""
+msgstr "прокручування, глибина, ефект, фон, шар, візуал, рух"
 
 #. module: website
 #. odoo-javascript
@@ -17569,7 +17567,7 @@ msgstr ""
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
 msgid "social media, ig, feed"
-msgstr "social media, ig, feed"
+msgstr "соціальні мережі, ig, стрічка"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets

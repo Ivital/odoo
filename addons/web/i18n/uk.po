@@ -162,7 +162,7 @@ msgstr "+ Додати %s"
 #. odoo-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.xml:0
 msgid "+ KEY"
-msgstr "+ KEY"
+msgstr "+ КЛАВІША"
 
 #. module: web
 #. odoo-javascript
@@ -248,9 +248,7 @@ msgstr "<span class=\"text-nowrap\">Податок 15%</span>"
 msgid ""
 "<span class=\"w-100 o_force_ltr\" itemprop=\"streetAddress\">77 Santa Barbara\n"
 "                                       Rd<br/>Pleasant Hill CA 94523<br/>United States</span>"
-msgstr ""
-"<span class=\"w-100 o_force_ltr\" itemprop=\"streetAddress\">77 Santa Barbara\n"
-"                                       Rd<br/>Pleasant Hill CA 94523<br/>United States</span>"
+msgstr "<span class=\"w-100 o_force_ltr\" itemprop=\"streetAddress\">77 Santa Barbara\n                                       Rd<br/>Pleasant Hill CA 94523<br/>Сполучені Штати</span>"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.report_invoice_wizard_preview
